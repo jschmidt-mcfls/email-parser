@@ -4,5 +4,7 @@ with open('ShoutbombMarch2022.txt', 'r') as f:
 
 print(msg_lines)
 
+# potato
+
 
 # https://datatofish.com/convert-text-file-to-csv-using-python-tool-included/  
