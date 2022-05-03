@@ -1,5 +1,5 @@
 with open('ShoutbombMarch2022.txt', 'r') as f:
-    email = f.read()
+    email = f.readlines()
     
 libraries = []
 dictionary = {
@@ -17,10 +17,8 @@ dictionary = {
     'Items unsuccessfully renewed by patrons for the month' : 0,
 }
 
-email.split('Branch')
-
-for e in email:
-    if e in dictionary.keys:
-        print(e)
+for line in email:
+    if 'Branch:: ' in line:
+        print(line)
 
 # https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/
