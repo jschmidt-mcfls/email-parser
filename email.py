@@ -1,8 +1,11 @@
+
 # open email text file and put it into a variable
 with open('ShoutbombMarch2022.txt', 'r') as f:
-    msg_lines = f.readlines()
+    msg = f.read()
 
-for l in msg_lines:
-    if "::" in l:
-        print(l) 
-# https://datatofish.com/convert-text-file-to-csv-using-python-tool-included/  
+msg.split('Branch::')
+
+for m in msg:
+    if msg[0] == 
+
+# https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/ 
