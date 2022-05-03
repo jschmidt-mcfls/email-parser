@@ -1,11 +1,26 @@
-
-# open email text file and put it into a variable
 with open('ShoutbombMarch2022.txt', 'r') as f:
-    msg = f.read()
+    email = f.read()
+    
+libraries = []
+dictionary = {
+    'Hold notices sent for the month' : 0,
+    'Hold cancel notices sent for the month' : 0,
+    'Overdue notices sent for the month' : 0,
+    'Overdue items eligible for renewal, notices sent for the month' : 0,
+    'Overdue items ineligible for renewal, notices sent for the month' : 0,
+    'Overdue items renewed successfully by patrons for the month' : 0,
+    'Overdue items unsuccessfully renewed by patrons for the month' : 0,
+    'Renewal notices sent for the month' : 0,
+    'Items eligible for renewal notices sent for the month' : 0,
+    'Items ineligible for renewal notices sent for the month' : 0,
+    'Items renewed successfully by patrons for the month' : 0,
+    'Items unsuccessfully renewed by patrons for the month' : 0,
+}
 
-msg.split('Branch::')
+email.split('Branch')
 
-for m in msg:
-    if msg[0] == 
+for e in email:
+    if e in dictionary.keys:
+        print(e)
 
-# https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/ 
+# https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/
