@@ -1,8 +1,8 @@
-with open('ShoutbombMarch2022.txt', 'r') as f:
+with open('text.txt', 'r') as f:
     email = f.readlines()
     
 libraries = []
-dictionary = {
+queries = {
     'Hold notices sent for the month' : 0,
     'Hold cancel notices sent for the month' : 0,
     'Overdue notices sent for the month' : 0,
@@ -18,7 +18,12 @@ dictionary = {
 }
 
 for line in email:
-    if 'Branch:: ' in line:
-        print(line)
+    for key in queries:
+        if key in line:
+            line = line.split('= ')
+            queries[key] = line[1]
+            line = []
+
+print(queries)
 
 # https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/

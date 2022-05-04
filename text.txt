@@ -1,0 +1,16 @@
+Branch:: Hales Corners. Please check the library website for our current hours of service
+Hold notices sent for the month = 143
+Hold cancel notices sent for the month = 1
+
+Overdue notices sent for the month = 53
+Overdue items eligible for renewal, notices sent for the month = 85
+Overdue items ineligible for renewal, notices sent for the month = 58
+Overdue items renewed successfully by patrons for the month = 28
+Overdue items unsuccessfully renewed by patrons for the month = 2
+
+Renewal notices sent for the month = 179
+Items eligible for renewal notices sent for the month = 632
+Items ineligible for renewal notices sent for the month = 83
+Items renewed successfully by patrons for the month = 146
+Items unsuccessfully renewed by patrons for the month = 3
+
