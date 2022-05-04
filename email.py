@@ -20,9 +20,10 @@ queries = {
 for line in email:
     for key in queries:
         if key in line:
-            line = line.split('= ')
-            queries[key] = line[1]
-            line = []
+            new_line = line.replace(key, '')
+            new_line = new_line.replace(' = ', '')
+            line = new_line
+            queries[key] = int(line)
 
 print(queries)
 
