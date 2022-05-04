@@ -26,4 +26,5 @@ for line in email:
 
 print(queries)
 
+#use .replace()
 # https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/
