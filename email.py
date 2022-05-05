@@ -1,7 +1,6 @@
-with open('text.txt', 'r') as f:
-    email = f.readlines()
+with open('ShoutbombMarch2022.txt', 'r') as f:
+    email = f.read()
     
-libraries = []
 queries = {
     'Hold notices sent for the month' : 0,
     'Hold cancel notices sent for the month' : 0,
@@ -16,16 +15,29 @@ queries = {
     'Items renewed successfully by patrons for the month' : 0,
     'Items unsuccessfully renewed by patrons for the month' : 0,
 }
+libraries = {'Hales Corners': queries,
+             'Whitefish Bay': queries,
+             'Shorewood': queries,
+             'Cudahy': queries,
+            
+            
+            
+            
+            
+            
+            }
 
-for line in email:
-    for key in queries:
-        if key in line:
-            new_line = line.replace(key, '')
-            new_line = new_line.replace(' = ', '')
-            line = new_line
-            queries[key] = int(line)
+for branch in email.split('Branch:: '):
+    branch.splitlines()
+    for line in branch.splitlines():
+        for key in queries:
+            if key in line:
+                new_line = line.replace(key, '')
+                new_line = new_line.replace(' = ', '')
+                line = new_line
+                queries[key] = int(line)
 
 print(queries)
 
-#use .replace()
+# line.split(max??)
 # https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/
