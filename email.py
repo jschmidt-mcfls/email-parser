@@ -68,7 +68,7 @@ for branch in email.split('Branch:: '):
                         'Items renewed successfully by patrons for the month': 0,
                         'Items unsuccessfully renewed by patrons for the month': 0}
 
-print(libraries)
+print(libraries['Wauwatosa'])  # why is it adding all the library outputs together for each
 
 # line.split(max??)
 # https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/
