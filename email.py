@@ -1,6 +1,6 @@
 with open('ShoutbombMarch2022.txt', 'r') as f:
     email = f.read()
-    
+
 queries = {
     'Hold notices sent for the month' : 0,
     'Hold cancel notices sent for the month' : 0,
@@ -46,7 +46,7 @@ def get_data(data):
                 new_line = new_line.replace(' = ', '')
                 line = new_line
                 queries[key] = int(line)
-                
+
     return queries
 
 
