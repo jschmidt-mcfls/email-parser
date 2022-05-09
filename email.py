@@ -15,6 +15,22 @@ queries = {
     'Items renewed successfully by patrons for the month': 0,
     'Items unsuccessfully renewed by patrons for the month': 0,
 }
+
+queries2 = {
+    'Hold notices sent for the month': 0,
+    'Hold cancel notices sent for the month': 0,
+    'Overdue notices sent for the month': 0,
+    'Overdue items eligible for renewal, notices sent for the month': 0,
+    'Overdue items ineligible for renewal, notices sent for the month': 0,
+    'Overdue items renewed successfully by patrons for the month': 0,
+    'Overdue items unsuccessfully renewed by patrons for the month': 0,
+    'Renewal notices sent for the month': 0,
+    'Items eligible for renewal notices sent for the month': 0,
+    'Items ineligible for renewal notices sent for the month': 0,
+    'Items renewed successfully by patrons for the month': 0,
+    'Items unsuccessfully renewed by patrons for the month': 0,
+}
+
 libraries = {'Hales Corners': queries,
              'Whitefish Bay': queries,
              'Shorewood': queries,
@@ -38,37 +54,24 @@ libraries = {'Hales Corners': queries,
              }
 
 
-def get_data(data):
+def get_data(data, questions):
     for line in data:
-        for key in queries:
+        for key in questions:
             if key in line:
                 new_line = line.replace(key, '')
                 new_line = new_line.replace(' = ', '')
                 line = new_line
-                queries[key] = int(line)
-
-    return queries
+                questions[key] = int(line)
+    return questions
 
 
 for branch in email.split('Branch:: '):
     for library in libraries:
         if library in branch:
-            libraries[library] = get_data(branch.splitlines())
-            queries = {
-                        'Hold notices sent for the month': 0,
-                        'Hold cancel notices sent for the month': 0,
-                        'Overdue notices sent for the month': 0,
-                        'Overdue items eligible for renewal, notices sent for the month': 0,
-                        'Overdue items ineligible for renewal, notices sent for the month': 0,
-                        'Overdue items renewed successfully by patrons for the month': 0,
-                        'Overdue items unsuccessfully renewed by patrons for the month': 0,
-                        'Renewal notices sent for the month': 0,
-                        'Items eligible for renewal notices sent for the month': 0,
-                        'Items ineligible for renewal notices sent for the month': 0,
-                        'Items renewed successfully by patrons for the month': 0,
-                        'Items unsuccessfully renewed by patrons for the month': 0}
+            libraries[library] = get_data(branch.splitlines(), queries)
+            queries = queries2
 
-print(libraries['Wauwatosa'])  # why is it adding all the library outputs together for each
 
-# line.split(max??)
+print(libraries)  # why is it adding all the library outputs together for each
+
 # https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/
