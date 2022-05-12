@@ -80,16 +80,7 @@ for branch in email.split('Branch:: '):
             queries = queries2.copy()
 
 sheet1 = workbook.add_sheet('Totals by Branch')
-sheet1.write(1, 0, 'ISBT DEHRADUN')
-sheet1.write(2, 0, 'SHASTRADHARA')
-sheet1.write(3, 0, 'CLEMEN TOWN')
-sheet1.write(4, 0, 'RAJPUR ROAD')
-sheet1.write(5, 0, 'CLOCK TOWER')
-sheet1.write(0, 1, 'ISBT DEHRADUN')
-sheet1.write(0, 2, 'SHASTRADHARA')
-sheet1.write(0, 3, 'CLEMEN TOWN')
-sheet1.write(0, 4, 'RAJPUR ROAD')
-sheet1.write(0, 5, 'CLOCK TOWER')
+sheet1.write(1, 0, 'text')
   
 workbook.save(filename.replace(".txt", ".xlsx"))
 print(libraries)
