@@ -2,7 +2,7 @@ from xlwt import Workbook
 
 workbook = Workbook()
 
-filename = 'ShoutbombApril2022.txt'
+filename = 'ShoutbombMarch2022.txt'
 
 with open(filename, 'r') as f:
     email = f.read()
@@ -59,7 +59,7 @@ libraries = {'Hales Corners': queries,
              'Franklin': queries,
              'Central': queries,
              'Center St.': queries,
-             }
+            }
 
 
 def get_data(data):
@@ -79,11 +79,11 @@ for branch in email.split('Branch:: '):
             libraries[library] = get_data(branch.splitlines())
             queries = queries2.copy()
 
+# Import dictionary data to sheet
 sheet1 = workbook.add_sheet('Totals by Branch')
-sheet1.write(1, 0, 'text')
+libraryNames = list(libraries.keys())
+
+for lib in libraries:
+    sheet1.write(libraryNames.index(lib)+1, 0, lib)
   
-workbook.save(filename.replace(".txt", ".xlsx"))
-
-print(libraries)
-
-# https://www.geeksforgeeks.org/writing-excel-sheet-using-python/
+workbook.save(filename.replace(".txt", ".xls"))
