@@ -24,21 +24,6 @@ queries = {
     'Items unsuccessfully renewed by patrons for the month': 0,
 }
 
-queries2 = {
-    'Hold notices sent for the month': 0,
-    'Hold cancel notices sent for the month': 0,
-    'Overdue notices sent for the month': 0,
-    'Overdue items eligible for renewal, notices sent for the month': 0,
-    'Overdue items ineligible for renewal, notices sent for the month': 0,
-    'Overdue items renewed successfully by patrons for the month': 0,
-    'Overdue items unsuccessfully renewed by patrons for the month': 0,
-    'Renewal notices sent for the month': 0,
-    'Items eligible for renewal notices sent for the month': 0,
-    'Items ineligible for renewal notices sent for the month': 0,
-    'Items renewed successfully by patrons for the month': 0,
-    'Items unsuccessfully renewed by patrons for the month': 0,
-}
-
 libraries = {'Hales Corners': queries,
              'Whitefish Bay': queries,
              'Shorewood': queries,
@@ -62,22 +47,22 @@ libraries = {'Hales Corners': queries,
             }
 
 
-def get_data(data):
+def getData(data):
+    newQueries = queries.copy()
     for line in data:
-        for key in queries:
+        for key in newQueries:
             if key in line:
-                new_line = line.replace(key, '')
-                new_line = new_line.replace(' = ', '')
-                line = new_line
-                queries[key] = int(line)
-    return queries
+                newLine = line.replace(key, '')
+                newLine = newLine.replace(' = ', '')
+                line = newLine
+                newQueries[key] = int(line)
+    return newQueries
 
 
 for branch in email.split('Branch:: '):
     for library in libraries:
         if library in branch:
-            libraries[library] = get_data(branch.splitlines())
-            queries = queries2.copy()
+            libraries[library] = getData(branch.splitlines())
 
 # Import dictionary data to sheet
 sheet1 = workbook.add_sheet('Totals by Branch')
