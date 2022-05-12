@@ -1,1 +1,1 @@
-run = "python3 email.py"
+run = "python3 main.py"

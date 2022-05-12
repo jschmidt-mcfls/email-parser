@@ -314,6 +314,8 @@ Items eligible for renewal notices sent for the month = 4
 Items ineligible for renewal notices sent for the month = 1
 Items renewed successfully by patrons for the month = 4
 
+
+
 ================================TOTALS================================
 Hold notices sent for the month = 9830
 

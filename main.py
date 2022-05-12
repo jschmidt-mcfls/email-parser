@@ -1,5 +1,13 @@
-with open('ShoutbombMarch2022.txt', 'r') as f:
+from xlwt import Workbook
+
+workbook = Workbook()
+
+filename = 'ShoutbombApril2022.txt'
+
+with open(filename, 'r') as f:
     email = f.read()
+
+email = email.split("=TOTALS=")[0]
 
 queries = {
     'Hold notices sent for the month': 0,
@@ -54,24 +62,36 @@ libraries = {'Hales Corners': queries,
              }
 
 
-def get_data(data, questions):
+def get_data(data):
     for line in data:
-        for key in questions:
+        for key in queries:
             if key in line:
                 new_line = line.replace(key, '')
                 new_line = new_line.replace(' = ', '')
                 line = new_line
-                questions[key] = int(line)
-    return questions
+                queries[key] = int(line)
+    return queries
 
 
 for branch in email.split('Branch:: '):
     for library in libraries:
         if library in branch:
-            libraries[library] = get_data(branch.splitlines(), queries)
-            queries = queries2
+            libraries[library] = get_data(branch.splitlines())
+            queries = queries2.copy()
 
+sheet1 = workbook.add_sheet('Totals by Branch')
+sheet1.write(1, 0, 'ISBT DEHRADUN')
+sheet1.write(2, 0, 'SHASTRADHARA')
+sheet1.write(3, 0, 'CLEMEN TOWN')
+sheet1.write(4, 0, 'RAJPUR ROAD')
+sheet1.write(5, 0, 'CLOCK TOWER')
+sheet1.write(0, 1, 'ISBT DEHRADUN')
+sheet1.write(0, 2, 'SHASTRADHARA')
+sheet1.write(0, 3, 'CLEMEN TOWN')
+sheet1.write(0, 4, 'RAJPUR ROAD')
+sheet1.write(0, 5, 'CLOCK TOWER')
+  
+workbook.save(filename.replace(".txt", ".xlsx"))
+print(libraries)
 
-print(libraries)  # why is it adding all the library outputs together for each
-
-# https://www.geeksforgeeks.org/working-with-excel-spreadsheets-in-python/
+# https://www.geeksforgeeks.org/writing-excel-sheet-using-python/
