@@ -83,6 +83,7 @@ sheet1 = workbook.add_sheet('Totals by Branch')
 sheet1.write(1, 0, 'text')
   
 workbook.save(filename.replace(".txt", ".xlsx"))
+
 print(libraries)
 
 # https://www.geeksforgeeks.org/writing-excel-sheet-using-python/
