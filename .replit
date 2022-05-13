@@ -1,1 +1,1 @@
-run = "python3 main.py"
+run = "pip install xlwt && python3 main.py"

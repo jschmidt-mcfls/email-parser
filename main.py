@@ -47,28 +47,29 @@ libraries = {'Hales Corners': queries,
             }
 
 
-def getData(data):
-    newQueries = queries.copy()
+def get_data(data):
+    new_queries = queries.copy()
     for line in data:
-        for key in newQueries:
+        for key in new_queries:
             if key in line:
-                newLine = line.replace(key, '')
-                newLine = newLine.replace(' = ', '')
-                line = newLine
-                newQueries[key] = int(line)
-    return newQueries
+                new_line = line.replace(key, '')
+                new_line = new_line.replace(' = ', '')
+                line = new_line
+                new_queries[key] = int(line)
+    return new_queries
 
 
 for branch in email.split('Branch:: '):
     for library in libraries:
         if library in branch:
-            libraries[library] = getData(branch.splitlines())
+            libraries[library] = get_data(branch.splitlines())
 
 # Import dictionary data to sheet
 sheet1 = workbook.add_sheet('Totals by Branch')
-libraryNames = list(libraries.keys())
+library_names = list(libraries.keys())
 
 for lib in libraries:
-    sheet1.write(libraryNames.index(lib)+1, 0, lib)
-  
+    sheet1.write(library_names.index(lib)+1, 0, lib)
+
 workbook.save(filename.replace(".txt", ".xls"))
+print("Saved...")
