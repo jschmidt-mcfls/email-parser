@@ -47,17 +47,21 @@ queries = {
     }
 
 libraries = [
+    'Atkinson', 'Bay View', 'Villard', 'Wash Park', 'Capitol',
+    'Mitchell St.', 'Zablocki', 'Center St.',
     'Hales Corners', 'Whitefish Bay', 'Shorewood', 'Cudahy',
     'North Shore', 'Brown Deer', 'Tippecanoe', 'St. Francis',
-    'West Allis', 'Wauwatosa', 'Oak Creek', 'West Milwaukee',
-    'King', 'Greendale', 'Greenfield', 'East', 'South Milwaukee',
-    'Franklin', 'Central', 'Center St.'
+    'Good Hope', 'West Allis', 'Wauwatosa', 'Oak Creek',
+    'West Milwaukee', 'King', 'Greendale', 'Greenfield',
+    'East', 'South Milwaukee', 'Franklin', 'Central'
     ]
 
 workbook = Workbook()
 
+# rename
 totalsByBranch = workbook.add_sheet(f"Totals by Branch {new_filename.replace('Shoutbomb', '')}")
 totals = workbook.add_sheet(f"Totals {new_filename.replace('Shoutbomb', '')}")
+
 
 # Import dictionary data to Totals by Branch sheet
 def firstSheet():
@@ -79,14 +83,14 @@ def firstSheet():
                             new_line = new_line.replace(' = ', '')
                             line = new_line
                             new_queries[key] = int(line)
-                            
+
                 for query in list(new_queries.keys()):
                     x_pos = list(new_queries.keys()).index(query)
                     totalsByBranch.write(x_pos+1, y_pos, new_queries[query])
 
+
 def secondSheet():
     pass
-
 
 
 # Run functions
