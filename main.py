@@ -1,3 +1,4 @@
+from hashlib import new
 from xlwt import Workbook
 from time import sleep
 from os import system
@@ -30,6 +31,8 @@ while not found:
 
 # Variables
 newFilename = filename.replace(".txt", "")
+newFilename = newFilename.replace('Shoutbomb', '')
+
 queries = [
     "Hold notices sent for the month",
     "Hold cancel notices sent for the month",
@@ -57,49 +60,60 @@ libraries = [
     ]
 
 workbook = Workbook()
-
 splittedEmail = email.split("=TOTALS BY BRANCH=")[0]
 
-totalsByBranch = workbook.add_sheet(f"Totals by Branch {newFilename.replace('Shoutbomb', '')}")
-totalUsers = workbook.add_sheet("Total Registered Users")
 
-
-# Import dictionary data to Totals by Branch sheet
-def parse(what):
+def parse(data, query):
     valuesList = []
-    for line in what.splitlines():
-        for key in queries.copy():
+    for line in data.splitlines():
+        for key in query:
             if key in line:
                 newLine = line.replace(key, "")
                 newLine = newLine.replace(" = ", "")
                 valuesList.append(int(newLine))
     return valuesList
-    
+
+
 # First Sheet
-email_text = splittedEmail.split("=TOTALS=")[0]
+totalsByBranch = workbook.add_sheet(f"Totals {newFilename}")
+
+emailText = splittedEmail.split("=TOTALS=")[0]
 for query in queries:
     totalsByBranch.write(int(queries.index(query)+1), 0, query)
 row = 0
 column = 0
-for branch in email_text.split("Branch:: "):
+for branch in emailText.split("Branch:: "):
     for library in libraries:
         row = 0
         if library in branch:
             column += 1
             totalsByBranch.write(0, column, library)
-            libQueries = parse(branch)
+            libQueries = parse(branch, queries.copy())
             for query in libQueries:
                 row += 1
                 totalsByBranch.write(row, column, query)
 
 row = 0 
 column += 1
-totals = parse(splittedEmail.split("=TOTALS=")[1])
-totalsByBranch.write(row, column, "Totals")
+totals = parse(splittedEmail.split("=TOTALS=")[1], queries.copy())
+totalsByBranch.write(row, column, f"Totals")
 for query in totals:
     row += 1
     totalsByBranch.write(row, column, query)
 
+# Second Sheet
+#make that shit parse
+totalTexts = workbook.add_sheet(f"Text Notices {newFilename}")
+emailText = splittedEmail.split("=TOTALS OF REGISTERED PATRON BY BRANCH=")[1]
+print(emailText)
+
+
+# Third Sheet
+totalUsers = workbook.add_sheet(f"Patrons Registered for Text Notices {newFilename}")
+
+
+
+
 # Save workbook
-workbook.save(filename.replace(".txt", ".xls"))
+#workbook.save(filename.replace(".txt", ".xls"))
 print("Saved Successfully...")
