@@ -1,0 +1,371 @@
+Branch:: Hales Corners. Please check the library website for our current hours of service
+Hold notices sent for the month = 132
+Hold cancel notices sent for the month = 2
+
+Overdue notices sent for the month = 60
+Overdue items eligible for renewal, notices sent for the month = 124
+Overdue items ineligible for renewal, notices sent for the month = 45
+Overdue items renewed successfully by patrons for the month = 57
+Overdue items unsuccessfully renewed by patrons for the month = 14
+
+Renewal notices sent for the month = 178
+Items eligible for renewal notices sent for the month = 466
+Items ineligible for renewal notices sent for the month = 82
+Items renewed successfully by patrons for the month = 104
+Items unsuccessfully renewed by patrons for the month = 28
+
+
+Branch:: Whitefish Bay. For library hours, call 414.964.4380 or visit www.wfblibrary.org.
+Hold notices sent for the month = 449
+Hold cancel notices sent for the month = 5
+
+Overdue notices sent for the month = 177
+Overdue items eligible for renewal, notices sent for the month = 331
+Overdue items ineligible for renewal, notices sent for the month = 180
+Overdue items renewed successfully by patrons for the month = 61
+Overdue items unsuccessfully renewed by patrons for the month = 22
+
+Renewal notices sent for the month = 623
+Items eligible for renewal notices sent for the month = 1697
+Items ineligible for renewal notices sent for the month = 198
+Items renewed successfully by patrons for the month = 370
+Items unsuccessfully renewed by patrons for the month = 10
+
+
+Branch:: Shorewood. Holds can be picked up in the library or brought to your vehicle. Hours and more info can be found at https://www.shorewoodlibrary.org/discover/hours__location.php
+Hold notices sent for the month = 601
+Hold cancel notices sent for the month = 4
+
+Overdue notices sent for the month = 370
+Overdue items eligible for renewal, notices sent for the month = 581
+Overdue items ineligible for renewal, notices sent for the month = 236
+Overdue items renewed successfully by patrons for the month = 81
+Overdue items unsuccessfully renewed by patrons for the month = 9
+
+Renewal notices sent for the month = 848
+Items eligible for renewal notices sent for the month = 2228
+Items ineligible for renewal notices sent for the month = 358
+Items renewed successfully by patrons for the month = 388
+Items unsuccessfully renewed by patrons for the month = 15
+
+
+Branch:: Cudahy. Please call the library, 414-769-2244, if you would like to arrange for a curbside pick-up appointment
+Hold notices sent for the month = 181
+Hold cancel notices sent for the month = 1
+
+Overdue notices sent for the month = 187
+Overdue items eligible for renewal, notices sent for the month = 344
+Overdue items ineligible for renewal, notices sent for the month = 239
+Overdue items renewed successfully by patrons for the month = 62
+Overdue items unsuccessfully renewed by patrons for the month = 6
+
+Renewal notices sent for the month = 461
+Items eligible for renewal notices sent for the month = 1360
+Items ineligible for renewal notices sent for the month = 238
+Items renewed successfully by patrons for the month = 341
+Items unsuccessfully renewed by patrons for the month = 19
+
+
+Branch:: North Shore. For Library Hours and information on curbside pickup visit http://www.mcfls.org/northshorelibrary/default.htm or call 414-351-3461
+Hold notices sent for the month = 527
+Hold cancel notices sent for the month = 3
+
+Overdue notices sent for the month = 252
+Overdue items eligible for renewal, notices sent for the month = 459
+Overdue items ineligible for renewal, notices sent for the month = 148
+Overdue items renewed successfully by patrons for the month = 144
+Overdue items unsuccessfully renewed by patrons for the month = 11
+
+Renewal notices sent for the month = 660
+Items eligible for renewal notices sent for the month = 1811
+Items ineligible for renewal notices sent for the month = 310
+Items renewed successfully by patrons for the month = 408
+Items unsuccessfully renewed by patrons for the month = 24
+
+
+Branch:: Brown Deer. Items may be pickup up during our open hours.
+Hold notices sent for the month = 82
+Hold cancel notices sent for the month = 1
+
+Overdue notices sent for the month = 59
+Overdue items eligible for renewal, notices sent for the month = 95
+Overdue items ineligible for renewal, notices sent for the month = 74
+Overdue items renewed successfully by patrons for the month = 12
+
+Renewal notices sent for the month = 144
+Items eligible for renewal notices sent for the month = 307
+Items ineligible for renewal notices sent for the month = 77
+Items renewed successfully by patrons for the month = 69
+Items unsuccessfully renewed by patrons for the month = 1
+
+
+Branch:: Good Hope. Items may be picked up indoors during MPL Branch Limited Service hours. Also, available at Branch locations is curbside service, please call the phone number posted there.
+Hold notices sent for the month = 3
+
+
+Branch:: St. Francis. Come in to collect your holds during open hours. Or, you may phone 414 481-7323 once you are outside the library for curbside pickup
+Hold notices sent for the month = 143
+Hold cancel notices sent for the month = 1
+
+Overdue notices sent for the month = 79
+Overdue items eligible for renewal, notices sent for the month = 159
+Overdue items ineligible for renewal, notices sent for the month = 47
+Overdue items renewed successfully by patrons for the month = 25
+Overdue items unsuccessfully renewed by patrons for the month = 4
+
+Renewal notices sent for the month = 244
+Items eligible for renewal notices sent for the month = 722
+Items ineligible for renewal notices sent for the month = 112
+Items renewed successfully by patrons for the month = 137
+Items unsuccessfully renewed by patrons for the month = 7
+
+
+Branch:: West Allis. Please call the library 414-302-8500, if you would like to schedule curbside service
+Hold notices sent for the month = 509
+Hold cancel notices sent for the month = 2
+
+Overdue notices sent for the month = 245
+Overdue items eligible for renewal, notices sent for the month = 509
+Overdue items ineligible for renewal, notices sent for the month = 250
+Overdue items renewed successfully by patrons for the month = 85
+Overdue items unsuccessfully renewed by patrons for the month = 10
+
+Renewal notices sent for the month = 630
+Items eligible for renewal notices sent for the month = 1775
+Items ineligible for renewal notices sent for the month = 439
+Items renewed successfully by patrons for the month = 438
+Items unsuccessfully renewed by patrons for the month = 16
+
+
+Branch:: Wauwatosa. Please call the library for information about curbside pickup.
+Hold notices sent for the month = 1225
+Hold cancel notices sent for the month = 10
+
+Overdue notices sent for the month = 678
+Overdue items eligible for renewal, notices sent for the month = 1576
+Overdue items ineligible for renewal, notices sent for the month = 671
+Overdue items renewed successfully by patrons for the month = 289
+Overdue items unsuccessfully renewed by patrons for the month = 23
+
+Renewal notices sent for the month = 1401
+Items eligible for renewal notices sent for the month = 4366
+Items ineligible for renewal notices sent for the month = 606
+Items renewed successfully by patrons for the month = 1234
+Items unsuccessfully renewed by patrons for the month = 41
+
+
+Branch:: Oak Creek. Please visit www.oakcreeklibrary.org/curbside or call 414-766-7900 for information about curbside pick up.
+Hold notices sent for the month = 685
+Hold cancel notices sent for the month = 4
+
+Overdue notices sent for the month = 282
+Overdue items eligible for renewal, notices sent for the month = 576
+Overdue items ineligible for renewal, notices sent for the month = 139
+Overdue items renewed successfully by patrons for the month = 100
+
+Renewal notices sent for the month = 824
+Items eligible for renewal notices sent for the month = 2663
+Items ineligible for renewal notices sent for the month = 308
+Items renewed successfully by patrons for the month = 617
+Items unsuccessfully renewed by patrons for the month = 16
+
+
+Branch:: West Milwaukee
+Hold notices sent for the month = 5
+
+Overdue notices sent for the month = 7
+Overdue items eligible for renewal, notices sent for the month = 9
+Overdue items ineligible for renewal, notices sent for the month = 3
+Overdue items renewed successfully by patrons for the month = 3
+
+Renewal notices sent for the month = 24
+Items eligible for renewal notices sent for the month = 87
+Items ineligible for renewal notices sent for the month = 6
+Items renewed successfully by patrons for the month = 22
+
+
+Branch:: King. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service.
+Renewal notices sent for the month = 1
+Items eligible for renewal notices sent for the month = 7
+
+
+Branch:: Greendale. Call on arrival for curbside pickup: 414 423-2136
+Hold notices sent for the month = 280
+Hold cancel notices sent for the month = 1
+
+Overdue notices sent for the month = 142
+Overdue items eligible for renewal, notices sent for the month = 320
+Overdue items ineligible for renewal, notices sent for the month = 96
+Overdue items renewed successfully by patrons for the month = 44
+Overdue items unsuccessfully renewed by patrons for the month = 3
+
+Renewal notices sent for the month = 462
+Items eligible for renewal notices sent for the month = 1269
+Items ineligible for renewal notices sent for the month = 184
+Items renewed successfully by patrons for the month = 249
+Items unsuccessfully renewed by patrons for the month = 5
+
+
+Branch:: Greenfield. Please call the library at 414 321-9595 if you'd like to schedule an appointment for curbside pickup
+Hold notices sent for the month = 342
+Hold cancel notices sent for the month = 7
+
+Overdue notices sent for the month = 145
+Overdue items eligible for renewal, notices sent for the month = 285
+Overdue items ineligible for renewal, notices sent for the month = 103
+Overdue items renewed successfully by patrons for the month = 77
+Overdue items unsuccessfully renewed by patrons for the month = 3
+
+Renewal notices sent for the month = 517
+Items eligible for renewal notices sent for the month = 1556
+Items ineligible for renewal notices sent for the month = 352
+Items renewed successfully by patrons for the month = 259
+Items unsuccessfully renewed by patrons for the month = 6
+
+
+Branch:: East. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service.
+Hold notices sent for the month = 10
+
+Overdue notices sent for the month = 14
+Overdue items eligible for renewal, notices sent for the month = 13
+Overdue items ineligible for renewal, notices sent for the month = 11
+
+Renewal notices sent for the month = 23
+Items eligible for renewal notices sent for the month = 37
+Items ineligible for renewal notices sent for the month = 19
+Items renewed successfully by patrons for the month = 2
+
+
+Branch:: South Milwaukee
+Hold notices sent for the month = 148
+Hold cancel notices sent for the month = 1
+
+Overdue notices sent for the month = 90
+Overdue items eligible for renewal, notices sent for the month = 195
+Overdue items ineligible for renewal, notices sent for the month = 81
+Overdue items renewed successfully by patrons for the month = 51
+Overdue items unsuccessfully renewed by patrons for the month = 9
+
+Renewal notices sent for the month = 286
+Items eligible for renewal notices sent for the month = 779
+Items ineligible for renewal notices sent for the month = 149
+Items renewed successfully by patrons for the month = 220
+Items unsuccessfully renewed by patrons for the month = 8
+
+
+Branch:: Franklin. If you prefer curbside pick-up, please call 414-425-8214, Option 1, to schedule an appointment.
+Hold notices sent for the month = 564
+Hold cancel notices sent for the month = 2
+
+Overdue notices sent for the month = 231
+Overdue items eligible for renewal, notices sent for the month = 386
+Overdue items ineligible for renewal, notices sent for the month = 142
+Overdue items renewed successfully by patrons for the month = 52
+Overdue items unsuccessfully renewed by patrons for the month = 4
+
+Renewal notices sent for the month = 897
+Items eligible for renewal notices sent for the month = 2695
+Items ineligible for renewal notices sent for the month = 467
+Items renewed successfully by patrons for the month = 548
+Items unsuccessfully renewed by patrons for the month = 13
+
+
+Branch:: Central
+Hold notices sent for the month = 3944
+Hold cancel notices sent for the month = 32
+
+Overdue notices sent for the month = 2759
+Overdue items eligible for renewal, notices sent for the month = 5661
+Overdue items ineligible for renewal, notices sent for the month = 2763
+Overdue items renewed successfully by patrons for the month = 1192
+Overdue items unsuccessfully renewed by patrons for the month = 86
+
+Renewal notices sent for the month = 5440
+Items eligible for renewal notices sent for the month = 15906
+Items ineligible for renewal notices sent for the month = 3035
+Items renewed successfully by patrons for the month = 3626
+Items unsuccessfully renewed by patrons for the month = 127
+
+
+Branch:: Center St. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there.
+Overdue notices sent for the month = 2
+Overdue items ineligible for renewal, notices sent for the month = 2
+
+Renewal notices sent for the month = 3
+Items eligible for renewal notices sent for the month = 4
+Items ineligible for renewal notices sent for the month = 1
+Items renewed successfully by patrons for the month = 4
+
+
+
+================================TOTALS================================
+Hold notices sent for the month = 9830
+
+Hold cancel notices sent for the month = 76
+
+Overdue notices sent for the month = 5779
+Overdue items eligible for renewal, notices sent for the month = 11623
+Overdue items ineligible for renewal, notices sent for the month = 5230
+  Percentage of overall overdue items where renewal was attempted:: 21.84%
+Overdue items renewed successfully by patrons for the month = 2335
+  Percentage of overall overdue items where renewal was successful:: 20.09%
+Overdue items unsuccessfully renewed by patrons for the month = 204
+  Percentage of overall overdue items where renewal failed:: 1.76%
+
+Renewal notices sent for the month = 13666
+Items eligible for renewal notices sent for the month = 39735
+Items ineligible for renewal notices sent for the month = 6941
+  Percentage of overall items where renewal was attempted:: 23.59%
+Items renewed successfully by patrons for the month = 9036
+  Percentage of overall items where renewal was successful:: 22.74%
+Items unsuccessfully renewed by patrons for the month = 336
+  Percentage of overall items where renewal failed:: 0.85%
+
+
+================================TOTALS BY BRANCH================================
+Hales Corners. Please check the library website for our current hours of service sent for the month, this many text notices = 370
+Whitefish Bay. For library hours, call 414.964.4380 or visit www.wfblibrary.org. sent for the month, this many text notices = 1249
+Shorewood. Holds can be picked up in the library or brought to your vehicle. Hours and more info can be found at https://www.shorewoodlibrary.org/discover/hours__location.php sent for the month, this many text notices = 1819
+Cudahy. Please call the library, 414-769-2244, if you would like to arrange for a curbside pick-up appointment sent for the month, this many text notices = 829
+North Shore. For Library Hours and information on curbside pickup visit http://www.mcfls.org/northshorelibrary/default.htm or call 414-351-3461 sent for the month, this many text notices = 1439
+Brown Deer. Items may be pickup up during our open hours. sent for the month, this many text notices = 285
+Good Hope. Items may be picked up indoors during MPL Branch Limited Service hours. Also, available at Branch locations is curbside service, please call the phone number posted there. sent for the month, this many text notices = 3
+St. Francis. Come in to collect your holds during open hours. Or, you may phone 414 481-7323 once you are outside the library for curbside pickup sent for the month, this many text notices = 466
+West Allis. Please call the library 414-302-8500, if you would like to schedule curbside service sent for the month, this many text notices = 1384
+Wauwatosa. Please call the library for information about curbside pickup. sent for the month, this many text notices = 3304
+Oak Creek. Please visit www.oakcreeklibrary.org/curbside or call 414-766-7900 for information about curbside pick up. sent for the month, this many text notices = 1791
+West Milwaukee sent for the month, this many text notices = 36
+King. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service. sent for the month, this many text notices = 1
+Greendale. Call on arrival for curbside pickup: 414 423-2136 sent for the month, this many text notices = 884
+Greenfield. Please call the library at 414 321-9595 if you'd like to schedule an appointment for curbside pickup sent for the month, this many text notices = 1004
+East. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service. sent for the month, this many text notices = 47
+South Milwaukee sent for the month, this many text notices = 524
+Franklin. If you prefer curbside pick-up, please call 414-425-8214, Option 1, to schedule an appointment. sent for the month, this many text notices = 1692
+Central sent for the month, this many text notices = 12143
+Center St. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there. sent for the month, this many text notices = 5
+
+============================TOTALS OF REGISTERED PATRON BY BRANCH================================
+Bay View. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service has 3 registered patrons for text notices
+Brown Deer. Items may be pickup up during our open hours. has 124 registered patrons for text notices
+Capitol. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service. has 1 registered patrons for text notices
+Center St. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there. has 2 registered patrons for text notices
+Central has 10062 registered patrons for text notices
+Cudahy. Please call the library, 414-769-2244, if you would like to arrange for a curbside pick-up appointment has 657 registered patrons for text notices
+East. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service. has 7 registered patrons for text notices
+Franklin. If you prefer curbside pick-up, please call 414-425-8214, Option 1, to schedule an appointment. has 1333 registered patrons for text notices
+Good Hope. Items may be picked up indoors during MPL Branch Limited Service hours. Also, available at Branch locations is curbside service, please call the phone number posted there. has 1 registered patrons for text notices
+Greendale. Call on arrival for curbside pickup: 414 423-2136 has 641 registered patrons for text notices
+Greenfield. Please call the library at 414 321-9595 if you'd like to schedule an appointment for curbside pickup has 849 registered patrons for text notices
+Hales Corners. Please check the library website for our current hours of service has 243 registered patrons for text notices
+King. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service. has 4 registered patrons for text notices
+North Shore. For Library Hours and information on curbside pickup visit http://www.mcfls.org/northshorelibrary/default.htm or call 414-351-3461 has 921 registered patrons for text notices
+Oak Creek. Please visit www.oakcreeklibrary.org/curbside or call 414-766-7900 for information about curbside pick up. has 1743 registered patrons for text notices
+Shorewood. Holds can be picked up in the library or brought to your vehicle. Hours and more info can be found at https://www.shorewoodlibrary.org/discover/hours__location.php has 1095 registered patrons for text notices
+South Milwaukee has 473 registered patrons for text notices
+St. Francis. Come in to collect your holds during open hours. Or, you may phone 414 481-7323 once you are outside the library for curbside pickup has 342 registered patrons for text notices
+Tippecanoe. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there. has 1 registered patrons for text notices
+Wauwatosa. Please call the library for information about curbside pickup. has 3 registered patrons for text notices
+Wauwatosa. Please call the library for information about curbside pickup. has 2263 registered patrons for text notices
+West Allis. Please call the library 414-302-8500, if you would like to schedule curbside service has 897 registered patrons for text notices
+West Milwaukee has 36 registered patrons for text notices
+Whitefish Bay. For library hours, call 414.964.4380 or visit www.wfblibrary.org. has 808 registered patrons for text notices
