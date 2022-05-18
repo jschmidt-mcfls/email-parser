@@ -22,7 +22,7 @@ found = False
 while not found:
     filename = input("Type the exact file name: ")
     try:
-        with open(f"PutFilesHere/{filename}", "r") as f:
+        with open(f"Input/{filename}", "r") as f:
             email = f.read()
         found = True
     except FileNotFoundError:
@@ -140,5 +140,5 @@ for line in emailText.splitlines():
             
 
 # Save workbook
-workbook.save(filename.replace(".txt", ".xls"))
+workbook.save(f"Output/{filename.replace('.txt', '.xls')}")
 print("Saved Successfully...")
