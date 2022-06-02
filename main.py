@@ -102,41 +102,41 @@ for query in totals.values():
 
 
 # Second Part
-column = 1
+row = 1
 textNotices = workbook.add_sheet(f"Text Notices Sent {newFilename}")
-textNotices.write(1, 0, "Total Text Notices")
+textNotices.write(0, 1, "Total Text Notices")
 splittedEmail = email.split("=TOTALS BY BRANCH=")[1]
 emailText = splittedEmail.split("=TOTALS OF REGISTERED PATRON BY BRANCH=")[0]
 values = parse(emailText, libraries)
 for line in emailText.splitlines():
     for library in libraries:
         if library in line:
-            textNotices.write(0, column, library)
-            textNotices.write(1, column, values[library])
-            column += 1
+            textNotices.write(row, 0, library)
+            textNotices.write(row, 1, values[library])
+            row += 1
 
 # Third Part
-column = 1
+row = 1
 registeredUsers = workbook.add_sheet(f"Registered Patrons {newFilename}")
-registeredUsers.write(1, 0, "Total Registered Users")
+registeredUsers.write(0, 1, "Total Registered Patrons")
 emailText = splittedEmail.split("=TOTALS OF REGISTERED PATRON BY BRANCH=")[1]
 
 # setup custom parsing
 libraryCopy = libraries.copy()
 for line in emailText.splitlines():
-        for key in libraries.keys():
-            if key in line:
-                newLine = line.split(" has ")[1]
-                newLine = newLine.replace(" registered patrons for text notices", "")
-                newLine = int(newLine)
-                libraryCopy[key] = newLine
+    for key in libraries.keys():
+        if key in line:
+            newLine = line.split(" has ")[1]
+            newLine = newLine.replace(" registered patrons for text notices", "")
+            newLine = int(newLine)
+            libraryCopy[key] = newLine
                 
 for line in emailText.splitlines():
     for library in libraries:
         if library in line:
-            registeredUsers.write(0, column, library)
-            registeredUsers.write(1, column, libraryCopy[library])
-            column += 1
+            registeredUsers.write(row, 0, library)
+            registeredUsers.write(row, 1, libraryCopy[library])
+            row += 1
             
 
 # Save workbook
