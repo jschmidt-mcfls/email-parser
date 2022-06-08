@@ -1,0 +1,1896 @@
+Branch:: Hales Corners. Please check the library website for our current hours of service
+Hold notices sent for the month = 85
+
+Overdue notices sent for the month = 68
+Overdue items eligible for renewal, notices sent for the month = 94
+Overdue items ineligible for renewal, notices sent for the month = 64
+Overdue items renewed successfully by patrons for the month = 4
+
+Renewal notices sent for the month = 176
+Items eligible for renewal notices sent for the month = 595
+Items ineligible for renewal notices sent for the month = 121
+Items renewed successfully by patrons for the month = 141
+Items unsuccessfully renewed by patrons for the month = 1
+
+
+Branch:: Whitefish Bay. For library hours, call 414.964.4380 or visit www.wfblibrary.org.
+Hold notices sent for the month = 372
+Hold cancel notices sent for the month = 4
+
+Overdue notices sent for the month = 156
+Overdue items eligible for renewal, notices sent for the month = 217
+Overdue items ineligible for renewal, notices sent for the month = 68
+Overdue items renewed successfully by patrons for the month = 20
+Overdue items unsuccessfully renewed by patrons for the month = 7
+
+Renewal notices sent for the month = 533
+Items eligible for renewal notices sent for the month = 1330
+Items ineligible for renewal notices sent for the month = 238
+Items renewed successfully by patrons for the month = 421
+Items unsuccessfully renewed by patrons for the month = 10
+
+
+Branch:: Shorewood. Holds can be picked up in the library or brought to your vehicle. Hours and more info can be found at https://www.shorewoodlibrary.org/discover/hours__location.php
+Hold notices sent for the month = 502
+Hold cancel notices sent for the month = 1
+
+Overdue notices sent for the month = 286
+Overdue items eligible for renewal, notices sent for the month = 394
+Overdue items ineligible for renewal, notices sent for the month = 199
+Overdue items renewed successfully by patrons for the month = 48
+Overdue items unsuccessfully renewed by patrons for the month = 2
+
+Renewal notices sent for the month = 682
+Items eligible for renewal notices sent for the month = 1839
+Items ineligible for renewal notices sent for the month = 305
+Items renewed successfully by patrons for the month = 416
+Items unsuccessfully renewed by patrons for the month = 7
+
+
+Branch:: Cudahy. Please call the library, 414-769-2244, if you would like to arrange for a curbside pick-up appointment
+Hold notices sent for the month = 144
+Hold cancel notices sent for the month = 1
+
+Overdue notices sent for the month = 160
+Overdue items eligible for renewal, notices sent for the month = 326
+Overdue items ineligible for renewal, notices sent for the month = 120
+Overdue items renewed successfully by patrons for the month = 53
+Overdue items unsuccessfully renewed by patrons for the month = 1
+
+Renewal notices sent for the month = 354
+Items eligible for renewal notices sent for the month = 1001
+Items ineligible for renewal notices sent for the month = 209
+Items renewed successfully by patrons for the month = 276
+Items unsuccessfully renewed by patrons for the month = 4
+
+
+Branch:: North Shore. For Library Hours and information on curbside pickup visit http://www.mcfls.org/northshorelibrary/default.htm or call 414-351-3461
+Hold notices sent for the month = 461
+Hold cancel notices sent for the month = 5
+
+Overdue notices sent for the month = 200
+Overdue items eligible for renewal, notices sent for the month = 307
+Overdue items ineligible for renewal, notices sent for the month = 243
+Overdue items renewed successfully by patrons for the month = 46
+Overdue items unsuccessfully renewed by patrons for the month = 10
+
+Renewal notices sent for the month = 516
+Items eligible for renewal notices sent for the month = 1278
+Items ineligible for renewal notices sent for the month = 249
+Items renewed successfully by patrons for the month = 391
+Items unsuccessfully renewed by patrons for the month = 12
+
+
+Branch:: Brown Deer. Items may be pickup up during our open hours.
+Hold notices sent for the month = 86
+Hold cancel notices sent for the month = 1
+
+Overdue notices sent for the month = 34
+Overdue items eligible for renewal, notices sent for the month = 54
+Overdue items ineligible for renewal, notices sent for the month = 13
+Overdue items renewed successfully by patrons for the month = 4
+
+Renewal notices sent for the month = 120
+Items eligible for renewal notices sent for the month = 380
+Items ineligible for renewal notices sent for the month = 40
+Items renewed successfully by patrons for the month = 29
+Items unsuccessfully renewed by patrons for the month = 2
+
+
+Branch:: St. Francis. Come in to collect your holds during open hours. Or, you may phone 414 481-7323 once you are outside the library for curbside pickup
+Hold notices sent for the month = 130
+
+Overdue notices sent for the month = 61
+Overdue items eligible for renewal, notices sent for the month = 128
+Overdue items ineligible for renewal, notices sent for the month = 26
+Overdue items renewed successfully by patrons for the month = 27
+
+Renewal notices sent for the month = 181
+Items eligible for renewal notices sent for the month = 516
+Items ineligible for renewal notices sent for the month = 59
+Items renewed successfully by patrons for the month = 67
+Items unsuccessfully renewed by patrons for the month = 4
+
+
+Branch:: West Allis. Please call the library 414-302-8500, if you would like to schedule curbside service
+Hold notices sent for the month = 441
+Hold cancel notices sent for the month = 7
+
+Overdue notices sent for the month = 204
+Overdue items eligible for renewal, notices sent for the month = 528
+Overdue items ineligible for renewal, notices sent for the month = 264
+Overdue items renewed successfully by patrons for the month = 30
+Overdue items unsuccessfully renewed by patrons for the month = 13
+
+Renewal notices sent for the month = 468
+Items eligible for renewal notices sent for the month = 1583
+Items ineligible for renewal notices sent for the month = 351
+Items renewed successfully by patrons for the month = 234
+Items unsuccessfully renewed by patrons for the month = 13
+
+
+Branch:: Wauwatosa. Please call the library for information about curbside pickup.
+Hold notices sent for the month = 1258
+Hold cancel notices sent for the month = 7
+
+Overdue notices sent for the month = 469
+Overdue items eligible for renewal, notices sent for the month = 1041
+Overdue items ineligible for renewal, notices sent for the month = 404
+Overdue items renewed successfully by patrons for the month = 225
+Overdue items unsuccessfully renewed by patrons for the month = 22
+
+Renewal notices sent for the month = 1321
+Items eligible for renewal notices sent for the month = 3805
+Items ineligible for renewal notices sent for the month = 745
+Items renewed successfully by patrons for the month = 926
+Items unsuccessfully renewed by patrons for the month = 26
+
+
+Branch:: Bay View. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service
+Hold notices sent for the month = 1
+
+Overdue notices sent for the month = 1
+Overdue items ineligible for renewal, notices sent for the month = 1
+
+Renewal notices sent for the month = 1
+Items ineligible for renewal notices sent for the month = 1
+
+
+Branch:: Oak Creek. Please visit www.oakcreeklibrary.org/curbside or call 414-766-7900 for information about curbside pick up.
+Hold notices sent for the month = 536
+Hold cancel notices sent for the month = 2
+
+Overdue notices sent for the month = 326
+Overdue items eligible for renewal, notices sent for the month = 812
+Overdue items ineligible for renewal, notices sent for the month = 180
+Overdue items renewed successfully by patrons for the month = 160
+Overdue items unsuccessfully renewed by patrons for the month = 3
+
+Renewal notices sent for the month = 819
+Items eligible for renewal notices sent for the month = 2605
+Items ineligible for renewal notices sent for the month = 335
+Items renewed successfully by patrons for the month = 352
+Items unsuccessfully renewed by patrons for the month = 13
+
+
+Branch:: West Milwaukee
+Hold notices sent for the month = 8
+
+Overdue notices sent for the month = 5
+Overdue items eligible for renewal, notices sent for the month = 22
+Overdue items ineligible for renewal, notices sent for the month = 8
+Overdue items renewed successfully by patrons for the month = 19
+
+Renewal notices sent for the month = 19
+Items eligible for renewal notices sent for the month = 52
+Items ineligible for renewal notices sent for the month = 11
+Items renewed successfully by patrons for the month = 20
+
+
+Branch:: Greendale. Call on arrival for curbside pickup: 414 423-2136
+Hold notices sent for the month = 247
+Hold cancel notices sent for the month = 3
+
+Overdue notices sent for the month = 112
+Overdue items eligible for renewal, notices sent for the month = 247
+Overdue items ineligible for renewal, notices sent for the month = 68
+Overdue items renewed successfully by patrons for the month = 43
+Overdue items unsuccessfully renewed by patrons for the month = 5
+
+Renewal notices sent for the month = 284
+Items eligible for renewal notices sent for the month = 870
+Items ineligible for renewal notices sent for the month = 87
+Items renewed successfully by patrons for the month = 173
+Items unsuccessfully renewed by patrons for the month = 9
+
+
+Branch:: Greenfield. Please call the library at 414 321-9595 if you'd like to schedule an appointment for curbside pickup
+Hold notices sent for the month = 294
+Hold cancel notices sent for the month = 3
+
+Overdue notices sent for the month = 134
+Overdue items eligible for renewal, notices sent for the month = 262
+Overdue items ineligible for renewal, notices sent for the month = 185
+Overdue items renewed successfully by patrons for the month = 72
+Overdue items unsuccessfully renewed by patrons for the month = 1
+
+Renewal notices sent for the month = 439
+Items eligible for renewal notices sent for the month = 1192
+Items ineligible for renewal notices sent for the month = 222
+Items renewed successfully by patrons for the month = 228
+Items unsuccessfully renewed by patrons for the month = 3
+
+
+Branch:: East. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service.
+Hold notices sent for the month = 1
+
+
+Branch:: South Milwaukee
+Hold notices sent for the month = 136
+
+Overdue notices sent for the month = 97
+Overdue items eligible for renewal, notices sent for the month = 221
+Overdue items ineligible for renewal, notices sent for the month = 43
+Overdue items renewed successfully by patrons for the month = 47
+Overdue items unsuccessfully renewed by patrons for the month = 1
+
+Renewal notices sent for the month = 251
+Items eligible for renewal notices sent for the month = 761
+Items ineligible for renewal notices sent for the month = 74
+Items renewed successfully by patrons for the month = 108
+Items unsuccessfully renewed by patrons for the month = 2
+
+
+Branch:: Franklin. If you prefer curbside pick-up, please call 414-425-8214, Option 1, to schedule an appointment.
+Hold notices sent for the month = 591
+
+Overdue notices sent for the month = 227
+Overdue items eligible for renewal, notices sent for the month = 375
+Overdue items ineligible for renewal, notices sent for the month = 146
+Overdue items renewed successfully by patrons for the month = 33
+Overdue items unsuccessfully renewed by patrons for the month = 3
+
+Renewal notices sent for the month = 770
+Items eligible for renewal notices sent for the month = 2572
+Items ineligible for renewal notices sent for the month = 397
+Items renewed successfully by patrons for the month = 379
+Items unsuccessfully renewed by patrons for the month = 23
+
+
+Branch:: Central
+Hold notices sent for the month = 3606
+Hold cancel notices sent for the month = 22
+
+Overdue notices sent for the month = 2214
+Overdue items eligible for renewal, notices sent for the month = 4258
+Overdue items ineligible for renewal, notices sent for the month = 2269
+Overdue items renewed successfully by patrons for the month = 646
+Overdue items unsuccessfully renewed by patrons for the month = 82
+
+Renewal notices sent for the month = 4782
+Items eligible for renewal notices sent for the month = 13404
+Items ineligible for renewal notices sent for the month = 2582
+Items renewed successfully by patrons for the month = 2494
+Items unsuccessfully renewed by patrons for the month = 154
+
+================================TOTALS================================
+Hold notices sent for the month = 8899
+
+Hold cancel notices sent for the month = 56
+
+Overdue notices sent for the month = 4754
+Overdue items eligible for renewal, notices sent for the month = 9286
+Overdue items ineligible for renewal, notices sent for the month = 4301
+  Percentage of overall overdue items where renewal was attempted:: 17.52%
+Overdue items renewed successfully by patrons for the month = 1477
+  Percentage of overall overdue items where renewal was successful:: 15.91%
+Overdue items unsuccessfully renewed by patrons for the month = 150
+  Percentage of overall overdue items where renewal failed:: 1.62%
+
+Renewal notices sent for the month = 11716
+Items eligible for renewal notices sent for the month = 33783
+Items ineligible for renewal notices sent for the month = 6026
+  Percentage of overall items where renewal was attempted:: 20.54%
+Items renewed successfully by patrons for the month = 6655
+  Percentage of overall items where renewal was successful:: 19.70%
+Items unsuccessfully renewed by patrons for the month = 283
+  Percentage of overall items where renewal failed:: 0.84%
+
+
+================================TOTALS BY BRANCH================================
+Hales Corners. Please check the library website for our current hours of service sent for the month, this many text notices = 329
+Whitefish Bay. For library hours, call 414.964.4380 or visit www.wfblibrary.org. sent for the month, this many text notices = 1061
+Shorewood. Holds can be picked up in the library or brought to your vehicle. Hours and more info can be found at https://www.shorewoodlibrary.org/discover/hours__location.php sent for the month, this many text notices = 1470
+Cudahy. Please call the library, 414-769-2244, if you would like to arrange for a curbside pick-up appointment sent for the month, this many text notices = 658
+North Shore. For Library Hours and information on curbside pickup visit http://www.mcfls.org/northshorelibrary/default.htm or call 414-351-3461 sent for the month, this many text notices = 1177
+Brown Deer. Items may be pickup up during our open hours. sent for the month, this many text notices = 240
+St. Francis. Come in to collect your holds during open hours. Or, you may phone 414 481-7323 once you are outside the library for curbside pickup sent for the month, this many text notices = 372
+West Allis. Please call the library 414-302-8500, if you would like to schedule curbside service sent for the month, this many text notices = 1113
+Wauwatosa. Please call the library for information about curbside pickup. sent for the month, this many text notices = 3048
+Bay View. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service sent for the month, this many text notices = 3
+Oak Creek. Please visit www.oakcreeklibrary.org/curbside or call 414-766-7900 for information about curbside pick up. sent for the month, this many text notices = 1681
+West Milwaukee sent for the month, this many text notices = 32
+Greendale. Call on arrival for curbside pickup: 414 423-2136 sent for the month, this many text notices = 643
+Greenfield. Please call the library at 414 321-9595 if you'd like to schedule an appointment for curbside pickup sent for the month, this many text notices = 867
+East. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service. sent for the month, this many text notices = 1
+South Milwaukee sent for the month, this many text notices = 484
+Franklin. If you prefer curbside pick-up, please call 414-425-8214, Option 1, to schedule an appointment. sent for the month, this many text notices = 1588
+Central sent for the month, this many text notices = 10602
+
+============================TOTALS OF REGISTERED PATRON BY BRANCH================================
+Bay View. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service has 2 registered patrons for text notices
+Brown Deer. Items may be pickup up during our open hours. has 14 registered patrons for text notices
+Brown Deer. Items may be pickup up during our open hours. has 87 registered patrons for text notices
+Center St. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there. has 1 registered patrons for text notices
+Central has 611 registered patrons for text notices
+Central has 6618 registered patrons for text notices
+Cudahy. Please call the library, 414-769-2244, if you would like to arrange for a curbside pick-up appointment has 31 registered patrons for text notices
+Cudahy. Please call the library, 414-769-2244, if you would like to arrange for a curbside pick-up appointment has 420 registered patrons for text notices
+East. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service. has 1 registered patrons for text notices
+Franklin. If you prefer curbside pick-up, please call 414-425-8214, Option 1, to schedule an appointment. has 91 registered patrons for text notices
+Franklin. If you prefer curbside pick-up, please call 414-425-8214, Option 1, to schedule an appointment. has 898 registered patrons for text notices
+Greendale. Call on arrival for curbside pickup: 414 423-2136 has 46 registered patrons for text notices
+Greendale. Call on arrival for curbside pickup: 414 423-2136 has 431 registered patrons for text notices
+Greenfield. Please call the library at 414 321-9595 if you'd like to schedule an appointment for curbside pickup has 65 registered patrons for text notices
+Greenfield. Please call the library at 414 321-9595 if you'd like to schedule an appointment for curbside pickup has 566 registered patrons for text notices
+Hales Corners. Please check the library website for our current hours of service has 18 registered patrons for text notices
+Hales Corners. Please check the library website for our current hours of service has 175 registered patrons for text notices
+King. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service. has 3 registered patrons for text notices
+North Shore. For Library Hours and information on curbside pickup visit http://www.mcfls.org/northshorelibrary/default.htm or call 414-351-3461 has 66 registered patrons for text notices
+North Shore. For Library Hours and information on curbside pickup visit http://www.mcfls.org/northshorelibrary/default.htm or call 414-351-3461 has 647 registered patrons for text notices
+Oak Creek. Please visit www.oakcreeklibrary.org/curbside or call 414-766-7900 for information about curbside pick up. has 84 registered patrons for text notices
+Oak Creek. Please visit www.oakcreeklibrary.org/curbside or call 414-766-7900 for information about curbside pick up. has 1146 registered patrons for text notices
+Shorewood. Holds can be picked up in the library or brought to your vehicle. Hours and more info can be found at https://www.shorewoodlibrary.org/discover/hours__location.php has 79 registered patrons for text notices
+Shorewood. Holds can be picked up in the library or brought to your vehicle. Hours and more info can be found at https://www.shorewoodlibrary.org/discover/hours__location.php has 697 registered patrons for text notices
+South Milwaukee has 41 registered patrons for text notices
+South Milwaukee has 294 registered patrons for text notices
+St. Francis. Come in to collect your holds during open hours. Or, you may phone 414 481-7323 once you are outside the library for curbside pickup has 19 registered patrons for text notices
+St. Francis. Come in to collect your holds during open hours. Or, you may phone 414 481-7323 once you are outside the library for curbside pickup has 213 registered patrons for text notices
+Wauwatosa. Please call the library for information about curbside pickup. has 178 registered patrons for text notices
+Wauwatosa. Please call the library for information about curbside pickup. has 1530 registered patrons for text notices
+West Allis. Please call the library 414-302-8500, if you would like to schedule curbside service has 84 registered patrons for text notices
+West Allis. Please call the library 414-302-8500, if you would like to schedule curbside service has 512 registered patrons for text notices
+West Milwaukee has 5 registered patrons for text notices
+West Milwaukee has 26 registered patrons for text notices
+Whitefish Bay. For library hours, call 414.964.4380 or visit www.wfblibrary.org. has 92 registered patrons for text notices
+Whitefish Bay. For library hours, call 414.964.4380 or visit www.wfblibrary.org. has 521 registered patrons for text notices
+
+These patron phone numbers seem to have OPTED-OUT from SMS or MMS messages based on multiple attempts to contact. Please verify and correct.
+
+2622267691 :: 25242000568344 :: 83 :: SMS
+4146888932 :: 25248000465753 :: 24 :: SMS
+4142432636 :: No associated barcode
+2132545025 :: 25250000496812 :: 1 :: SMS
+4148920004 :: No associated barcode
+6784851359 :: 25260012962206 :: 1 :: SMS
+3104283145 :: 25260012352960 :: 1 :: SMS
+4143161530 :: 25250000493108 :: 1 :: SMS
+4143916950 :: 25251000432385 :: 1 :: SMS
+6035833735 :: 25260013306445 :: 1 :: SMS
+4145542966 :: 25260013249744 :: 6 :: SMS
+4145734098 :: 25252002017869 :: 1 :: SMS
+2627553656 :: 25260013309035 :: 1 :: SMS
+6082175844 :: 25260013477402 :: 1 :: SMS
+4144291513 :: 25252001020302 :: 34 :: SMS
+4149162950 :: 25260012818804 :: 1 :: SMS
+4149986606 :: 25260013304598 :: 1 :: SMS
+2622253704 :: 25260013241089 :: 1 :: SMS
+4143123842 :: 25260013278081 :: 1 :: SMS
+9062399338 :: 25252001978145 :: 1 :: SMS
+9203740637 :: 25253001609193 :: 36 :: SMS
+
+
+These patron phone numbers seem to be invalid based on multiple attempts to contact. Please verify and correct.
+
+4144672546 :: 25260012352192 :: 1 :: SMS
+2628002947 :: 25252001977311 :: 1 :: SMS
+4142134759 :: No associated barcode
+2629579346 :: 25260013275103 :: 1 :: SMS
+4142171019 :: No associated barcode
+4145177651 :: 25251000433987 :: 24 :: SMS
+4142863746 :: 25260011595619 :: 1 :: SMS
+4149639273 :: 25250000499360 :: 89 :: SMS
+9189544619 :: 25248000688842 :: 24 :: SMS
+4143667684 :: 25253001305271 :: 1 :: SMS
+4142184740 :: 25253001416961 :: 36 :: SMS
+6086852135 :: No associated barcode
+7152195757 :: No associated barcode
+4147689670 :: 25248000660411 :: 24 :: SMS
+2622820213 :: 25260013329520 :: 1 :: SMS
+4145448696 :: 25253001481148 :: 36 :: SMS
+4144890449 :: 25260009231821 :: 1 :: SMS
+4147781699 :: 25252002008298 :: 1 :: SMS
+6089689804 :: 25260012372398 :: 1 :: SMS
+4143127528 :: 25246000284653 :: 1 :: SMS
+4142025399 :: 25260012846334 :: 1 :: SMS
+4144650564 :: 25252001876380 :: 1 :: SMS
+5593551582 :: 25248000682944 :: 24 :: SMS
+4142820120 :: No associated barcode
+4147782088 :: 25252001768918 :: 34 :: SMS
+4147912905 :: 25260013312575 :: 1 :: SMS
+4143046300 :: 25260012304235 :: 1 :: SMS
+4044580519 :: No associated barcode
+4142504662 :: 25260013310728 :: 1 :: SMS
+4148077127 :: 25242000572478 :: 83 :: SMS
+4144428455 :: 25260011924405 :: 1 :: SMS
+4144476537 :: 25247000426104 :: 8 :: SMS
+4147454423 :: 25250000502437 :: 89 :: SMS
+4147612841 :: 25243000578234 :: 10 :: SMS
+4147326902 :: 25247000098754 :: 1 :: SMS
+4148653125 :: No associated barcode
+9067478802 :: 25260013205050 :: 1 :: SMS
+7733757475 :: 25252002016820 :: 34 :: SMS
+4144236759 :: 25243000637154 :: 10 :: SMS
+4144124146 :: 25250000471278 :: 89 :: SMS
+4143045358 :: 25248000475158 :: 24 :: SMS
+4143992457 :: 25260012368453 :: 1 :: SMS
+
+
+When processing the patron preference for text messaging file, these patron phone numbers are missing or invalid. Please verify the patron record and correct.
+
+Current caller 41443642663 is invalid, please reference 25252002002317 with home library 34
+Current caller 219730992 is invalid, please reference 25254000420418 with home library 93
+Current caller 41438847806 is invalid, please reference 25260013271219 with home library 1
+Current caller 414430682 is invalid, please reference 25243000528247 with home library 14
+Current caller 414 is invalid, please reference 25252002016788 with home library 1
+Current caller 34723886393 is invalid, please reference 25260010564384 with home library 89
+Current caller 1692921 is invalid, please reference 25260012011251 with home library 83
+Current caller 414736543 is invalid, please reference 25252001941382 with home library 34
+Current caller 3793021 is invalid, please reference 25260013250957 with home library 1
+Current caller 414975690 is invalid, please reference 25252001984630 with home library 1
+Current caller 8155 is invalid, please reference 25252002016812 with home library 34
+Current caller 36101021 is invalid, please reference 25251000434910 with home library 24
+Current caller 41487508600 is invalid, please reference 25260012387735 with home library 1
+Current caller 219730992 is invalid, please reference 25254000420418 with home library
+Current caller 10212141 is invalid, please reference 25260012564192 with home library 1
+Current caller 10252141 is invalid, please reference 25260012564937 with home library 1
+Current caller 10252141 is invalid, please reference 5260012564556 with home library 1
+Current caller 26259599642 is invalid, please reference 25260013415576 with home library 1
+Current caller 414 is invalid, please reference 25252002012753 with home library 34
+Current caller 41443642663 is invalid, please reference 25252002002317 with home library
+
+
+==================FREQUENCY OF KEYWORD USAGE BY PATRONS (for the month)======================
+
+ADDCARD was used 1 times.
+CHX was used 5 times.
+CXH was used 59 times.
+DELETE was used 1 times.
+FEE was used 2 times.
+HELP was used 9 times.
+HL was used 37 times.
+HOLD was used 4 times.
+MYBOOK was used 44 times.
+MYCARD was used 1 times.
+MYEVENT was used 76 times.
+OA was used 505 times.
+OI was used 37 times.
+OK was used 21 times.
+OL was used 108 times.
+RA was used 2103 times.
+RENEW was used 3 times.
+RI was used 74 times.
+RL was used 372 times.
+STOP was used 1 times.
+THANK was used 2 times.
+THANKS was used 3 times.
+
+Total registered users = 16317
+Total registered barcodes = 17378
+Total registered users for text notices is 16315
+Total registered users for this keyword SUMMER is 2
+Registered users the last month = 1259
+
+The following are patron(s) that registered the last month
+
+XXXXXXXXXX0593 | 2021-10-01 | 22:07:02 |
+XXXXXXXXXX9744 | 2021-10-01 | 22:07:06 |
+XXXXXXXXXX7817 | 2021-10-01 | 22:07:07 |
+XXXXXXXXXX7653 | 2021-10-01 | 22:07:07 |
+XXXXXXXXXX8754 | 2021-10-01 | 22:07:07 |
+XXXXXXXXXX7661 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX8747 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX8558 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7586 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX3582 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX2300 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7579 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7307 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7790 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7523 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX6775 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX0411 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX3574 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX2851 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX9075 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7610 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX6513 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX5021 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX5725 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX1313 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX6713 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7602 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX4549 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7685 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX6502 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7328 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX6783 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX2744 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7669 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX1071 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX9793 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX3566 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX4346 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX0542 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX4062 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX7406 | 2021-10-01 | 22:07:09 |
+XXXXXXXXXX3869 | 2021-10-01 | 22:07:09 |
+XXXXXXXXXX1657 | 2021-10-01 | 22:07:10 |
+XXXXXXXXXX5554 | 2021-10-02 | 21:13:44 |
+XXXXXXXXXX7638 | 2021-10-02 | 21:13:44 |
+XXXXXXXXXX4006 | 2021-10-02 | 21:13:44 |
+XXXXXXXXXX5478 | 2021-10-02 | 21:13:45 |
+XXXXXXXXXX2092 | 2021-10-02 | 21:13:45 |
+XXXXXXXXXX1814 | 2021-10-02 | 21:13:46 |
+XXXXXXXXXX1044 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX9055 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX8453 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX6858 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX9192 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX4556 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX3492 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX6646 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX9627 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX1325 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX4483 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX0964 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX1317 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX6858 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX3958 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX4580 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX7711 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX7289 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX0315 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX5729 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX1309 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX9819 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX3786 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX2447 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX4338 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX2812 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX6040 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX4564 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX3259 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX7826 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX2782 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX2550 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX0489 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX3984 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX1094 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX7024 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX0474 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX4575 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX3113 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX3926 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX5856 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX7800 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX1528 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX5504 | 2021-10-02 | 21:13:50 |
+XXXXXXXXXX2294 | 2021-10-02 | 21:13:51 |
+XXXXXXXXXX5730 | 2021-10-02 | 21:13:51 |
+XXXXXXXXXX6385 | 2021-10-02 | 21:13:51 |
+XXXXXXXXXX9734 | 2021-10-02 | 21:13:51 |
+XXXXXXXXXX6791 | 2021-10-03 | 21:11:25 |
+XXXXXXXXXX6057 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX6065 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX3509 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX1158 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX9459 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX8103 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX1391 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX3934 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX9430 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX2907 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX8837 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX0681 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX2733 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX5287 | 2021-10-03 | 21:11:27 |
+XXXXXXXXXX1550 | 2021-10-03 | 21:11:27 |
+XXXXXXXXXX7120 | 2021-10-04 | 21:11:44 |
+XXXXXXXXXX3554 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX5358 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX6115 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX9044 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX4497 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX4794 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX5506 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX5792 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX6882 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX6200 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX6484 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX7429 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX4521 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX7735 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX6123 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX8640 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX6791 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX3703 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX0579 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX6994 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX3739 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX3129 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX7867 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX4598 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX2481 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX7372 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX9151 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX8722 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX7743 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX1382 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX2499 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX6825 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX6874 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX5215 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX9638 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX9051 | 2021-10-04 | 21:11:50 |
+XXXXXXXXXX7965 | 2021-10-04 | 21:11:50 |
+XXXXXXXXXX2990 | 2021-10-04 | 21:11:50 |
+XXXXXXXXXX4288 | 2021-10-04 | 21:11:52 |
+XXXXXXXXXX7112 | 2021-10-05 | 21:12:16 |
+XXXXXXXXXX7725 | 2021-10-05 | 21:12:17 |
+XXXXXXXXXX9358 | 2021-10-05 | 21:12:18 |
+XXXXXXXXXX3614 | 2021-10-05 | 21:12:18 |
+XXXXXXXXXX0419 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX1832 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX8966 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX2450 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX8665 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX1228 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX8358 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX0383 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX2720 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX0673 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX9616 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX7356 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX0818 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX9215 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX1543 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX7770 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX6908 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX0285 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX6131 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX1789 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX8673 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX1568 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX5162 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX8484 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX0092 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX6853 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX6838 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX2391 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX4270 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX2443 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX4614 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX8155 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX6024 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX9264 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX3889 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX9256 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX1550 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX2615 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX9249 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX6139 | 2021-10-05 | 21:12:21 |
+XXXXXXXXXX0849 | 2021-10-05 | 21:12:21 |
+XXXXXXXXXX0492 | 2021-10-05 | 21:12:21 |
+XXXXXXXXXX7750 | 2021-10-05 | 21:12:21 |
+XXXXXXXXXX1148 | 2021-10-05 | 21:12:21 |
+XXXXXXXXXX9350 | 2021-10-05 | 21:12:22 |
+XXXXXXXXXX7891 | 2021-10-05 | 21:12:23 |
+XXXXXXXXXX0399 | 2021-10-06 | 21:42:28 |
+XXXXXXXXXX1748 | 2021-10-06 | 21:42:29 |
+XXXXXXXXXX6289 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX6149 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX6156 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX8988 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX8748 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX0381 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7842 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX1730 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX3026 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX9337 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7751 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX6924 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX9417 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7859 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX0203 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX3578 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX5985 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX5549 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX8106 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX4539 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX2104 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX1634 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX6244 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX1857 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX9002 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7834 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX6916 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX8382 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX4711 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX0301 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX0682 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX2114 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7602 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX8328 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX0461 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX2698 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX8488 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7450 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7867 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7933 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX6817 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7768 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7925 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX5556 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX8346 | 2021-10-06 | 21:42:31 |
+XXXXXXXXXX9010 | 2021-10-06 | 21:42:31 |
+XXXXXXXXXX4073 | 2021-10-06 | 21:42:31 |
+XXXXXXXXXX0153 | 2021-10-06 | 21:42:31 |
+XXXXXXXXXX5913 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX9091 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX4330 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX6263 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX1345 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX8345 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX7875 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX9734 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX1119 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX9637 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX4220 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX9645 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX9652 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX9700 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX6957 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0657 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX9572 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX5032 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX3891 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX5499 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX2240 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX6891 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX6817 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX5036 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0616 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX3079 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX4303 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX1698 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0724 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0658 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX8352 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX6403 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0093 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX5599 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0295 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0087 | 2021-10-07 | 21:16:09 |
+XXXXXXXXXX7226 | 2021-10-07 | 21:16:09 |
+XXXXXXXXXX0713 | 2021-10-07 | 21:16:09 |
+XXXXXXXXXX0809 | 2021-10-07 | 21:16:10 |
+XXXXXXXXXX1722 | 2021-10-07 | 21:16:10 |
+XXXXXXXXXX6427 | 2021-10-08 | 21:14:57 |
+XXXXXXXXXX7692 | 2021-10-08 | 21:14:58 |
+XXXXXXXXXX7663 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX3871 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX2527 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX5432 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX9139 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX4098 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX6066 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX7401 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX4627 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX0844 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX0559 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX1656 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX9083 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX8749 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX4712 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX6635 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX0534 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX7874 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX9775 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX1328 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX9783 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX9029 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX4380 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX6940 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX8860 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX6377 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX7309 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX5382 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX7013 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX6507 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX0133 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX5641 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX3130 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX0780 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX3228 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX7883 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX9348 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX1283 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX3186 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX6981 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX0542 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX6999 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX4171 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX4219 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX4634 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX9113 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX6492 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX6456 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX0348 | 2021-10-08 | 21:15:00 |
+XXXXXXXXXX1245 | 2021-10-08 | 21:15:00 |
+XXXXXXXXXX9841 | 2021-10-08 | 21:15:01 |
+XXXXXXXXXX2719 | 2021-10-08 | 21:15:01 |
+XXXXXXXXXX9692 | 2021-10-08 | 21:15:01 |
+XXXXXXXXXX0417 | 2021-10-09 | 21:12:48 |
+XXXXXXXXXX7917 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX1592 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX5037 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX5045 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX6336 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX6820 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX7933 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX6007 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX1402 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX1394 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX8894 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX4323 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX5606 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX1723 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX7039 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX2595 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX1862 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX5003 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX8209 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX8966 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX1556 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX4998 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX7409 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX8974 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX8878 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX8939 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX5061 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX7047 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX6857 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX6866 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX7054 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX8519 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX7062 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX9067 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX9000 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX6214 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX4671 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX2196 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX1854 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX3875 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX7322 | 2021-10-09 | 21:12:52 |
+XXXXXXXXXX7333 | 2021-10-09 | 21:12:53 |
+XXXXXXXXXX2565 | 2021-10-09 | 21:12:53 |
+XXXXXXXXXX4630 | 2021-10-09 | 21:12:54 |
+XXXXXXXXXX1040 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX1311 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX1607 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX1607 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX6230 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX9840 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX3546 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX6248 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX0633 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX9865 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX2959 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX0448 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX6226 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX0765 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX1457 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX0625 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX4587 | 2021-10-10 | 21:12:01 |
+XXXXXXXXXX9154 | 2021-10-10 | 21:12:01 |
+XXXXXXXXXX1386 | 2021-10-10 | 21:12:01 |
+XXXXXXXXXX9162 | 2021-10-10 | 21:12:03 |
+XXXXXXXXXX4013 | 2021-10-11 | 21:11:07 |
+XXXXXXXXXX8113 | 2021-10-11 | 21:11:09 |
+XXXXXXXXXX7276 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX2979 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX0006 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX9412 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX7339 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6924 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6757 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX1599 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX4980 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX9063 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX0244 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX5682 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX5637 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX8481 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6804 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX9507 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX3034 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6016 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX8773 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX5296 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX1318 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX5992 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6574 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX4949 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX8933 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX0617 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX0893 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX1256 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX9220 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX1581 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6890 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX2500 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX8443 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX3733 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX4881 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX7577 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX0826 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX8450 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX2048 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX5900 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX8897 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6362 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6916 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX8063 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX4208 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX2522 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX5154 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX7070 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX2330 | 2021-10-11 | 21:11:11 |
+XXXXXXXXXX4234 | 2021-10-11 | 21:11:11 |
+XXXXXXXXXX6302 | 2021-10-11 | 21:11:13 |
+XXXXXXXXXX8247 | 2021-10-11 | 21:11:13 |
+XXXXXXXXXX1421 | 2021-10-11 | 21:11:13 |
+XXXXXXXXXX6908 | 2021-10-12 | 21:12:53 |
+XXXXXXXXXX4747 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX3315 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX9370 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXXXXXXXX4915 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX1464 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX4311 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX8639 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX6190 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX5296 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX7359 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX7417 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX4283 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX8604 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX9265 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX4931 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX3016 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX1336 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX8956 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX6347 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX2146 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX2295 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX6916 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX4435 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX1806 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX7334 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX9097 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX3126 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX7367 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX5850 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX3959 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX2317 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX7391 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX7409 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX2929 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX1553 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX1407 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX1481 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX3465 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX5052 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX5403 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX8780 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX1344 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX1557 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX1540 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX4642 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX0567 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX8468 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX6940 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX4329 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX5876 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX7112 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX7120 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX0859 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX5286 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX4309 | 2021-10-12 | 21:12:57 |
+XXXXXXXXXX5932 | 2021-10-12 | 21:12:58 |
+XXXXXXXXXX0496 | 2021-10-12 | 21:12:58 |
+XXXXXXXXXX7528 | 2021-10-12 | 21:12:58 |
+XXXXXXXXXX0260 | 2021-10-12 | 21:12:59 |
+XXXXXXXXXX0806 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX5041 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX1729 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX9702 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX1764 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX6965 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX7433 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX3786 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX7202 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX1472 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX6313 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX7146 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX9824 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX6957 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX4899 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX1553 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX3168 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX6371 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX8501 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX0350 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX7347 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX2356 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX5601 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX1632 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX8338 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX0511 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX0368 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX5042 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX0503 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX8387 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX6321 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX9378 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX5614 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX6305 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX1268 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX7458 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX4364 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX7568 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX2279 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX1351 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX4799 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX4907 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX3913 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX2927 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX9190 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX1193 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX3918 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX3900 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX6017 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX4345 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX8822 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX0091 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX6506 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX6047 | 2021-10-14 | 21:12:20 |
+XXXXXXXXXX3017 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX3876 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX4873 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX8851 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX5976 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX7691 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX1931 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX4626 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX4914 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX4881 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX7543 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX0384 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX7508 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX4360 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX3564 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX8806 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX6327 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX4317 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX1169 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX2161 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX5835 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX7490 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX4865 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX4973 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX6413 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX1256 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX3634 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX3328 | 2021-10-14 | 21:12:26 |
+XXXXXXXXXX1516 | 2021-10-14 | 21:12:26 |
+XXXXXXXXXX8592 | 2021-10-14 | 21:12:27 |
+XXXXXXXXXX8527 | 2021-10-14 | 21:12:29 |
+XXXXXXXXXX5728 | 2021-10-15 | 21:11:04 |
+XXXXXXXXXX3868 | 2021-10-15 | 21:11:04 |
+XXXXXXXXXX3176 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX6238 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX9649 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX7535 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX9226 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX4825 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX0392 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX1241 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX9234 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX7187 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX4416 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX7725 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX1420 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX4619 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX2253 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX7733 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX8246 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX3518 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX9995 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX4838 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX6976 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX3149 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX0156 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX4932 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX9790 | 2021-10-15 | 21:11:06 |
+XXXXXXXXXX8730 | 2021-10-15 | 21:11:06 |
+XXXXXXXXXX7134 | 2021-10-15 | 21:11:06 |
+XXXXXXXXXX1849 | 2021-10-15 | 21:11:07 |
+XXXXXXXXXX3277 | 2021-10-16 | 10:05:04 |
+XXXXXXXXXX2238 | 2021-10-16 | 21:14:13 |
+XXXXXXXXXX4451 | 2021-10-16 | 21:14:14 |
+XXXXXXXXXX5093 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX6906 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4741 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX7565 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4733 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX6724 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX2261 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4577 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4584 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX7634 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX8543 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4551 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX3959 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX7719 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX9774 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4853 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4809 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX5366 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX3427 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4601 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX0172 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4924 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4758 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4200 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX3095 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX0759 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX0726 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX7727 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4457 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX0980 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX9045 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX9221 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4742 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX7203 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4725 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX0734 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX2246 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX3288 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX7930 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX1681 | 2021-10-16 | 21:14:17 |
+XXXXXXXXXX5194 | 2021-10-16 | 21:14:17 |
+XXXXXXXXXX4846 | 2021-10-16 | 21:14:19 |
+XXXXXXXXXX6793 | 2021-10-17 | 21:10:42 |
+XXXXXXXXXX5968 | 2021-10-17 | 21:10:42 |
+XXXXXXXXXX9758 | 2021-10-17 | 21:10:42 |
+XXXXXXXXXX7758 | 2021-10-17 | 21:10:42 |
+XXXXXXXXXX7766 | 2021-10-17 | 21:10:42 |
+XXXXXXXXXX8261 | 2021-10-17 | 21:10:42 |
+XXXXXXXXXX6117 | 2021-10-17 | 21:10:42 |
+XXXXXXXXXX8999 | 2021-10-17 | 21:10:42 |
+XXXXXXXXXX2648 | 2021-10-17 | 21:10:42 |
+XXXXXXXXXX7012 | 2021-10-18 | 21:13:12 |
+XXXXXXXXXX1219 | 2021-10-18 | 21:13:15 |
+XXXXXXXXXX6786 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX5209 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX8287 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX5935 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX5494 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX9588 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX6680 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX5793 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX3774 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX8584 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX9733 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX2422 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX7768 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX8572 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX0791 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX6534 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX3859 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX1050 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX4033 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX2143 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX3850 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX4502 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX4858 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX3962 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX5364 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX8826 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX3954 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX9554 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX3842 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX4904 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX9275 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX9259 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX0963 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX5785 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX4576 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX9529 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX9215 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX6644 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX3843 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX7011 | 2021-10-18 | 21:13:18 |
+XXXXXXXXXX5048 | 2021-10-18 | 21:13:18 |
+XXXXXXXXXX5630 | 2021-10-18 | 21:13:18 |
+XXXXXXXXXX3637 | 2021-10-18 | 21:13:18 |
+XXXXXXXXXX8026 | 2021-10-18 | 21:13:18 |
+XXXXXXXXXX1977 | 2021-10-18 | 21:13:19 |
+XXXXXXXXXX1324 | 2021-10-18 | 21:13:19 |
+XXXXXXXXXX4717 | 2021-10-18 | 21:13:19 |
+XXXXXXXXXX1397 | 2021-10-19 | 21:14:25 |
+XXXXXXXXXX6628 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX0809 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX4895 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX2204 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX1582 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX8219 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX2699 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX3112 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX0955 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX7481 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX8800 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX0817 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX0328 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX9866 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX4531 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX7659 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX5655 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX7435 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX2182 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX8642 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX7570 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX6364 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX0794 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX8792 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX9853 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX4587 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX0459 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX4556 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX3613 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX5922 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX0023 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX0934 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX9861 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX7784 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX8295 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX3800 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX6380 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX1667 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX2190 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX1211 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX7759 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX1241 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX8500 | 2021-10-19 | 21:14:28 |
+XXXXXXXXXX8619 | 2021-10-20 | 21:37:44 |
+XXXXXXXXXX9561 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX0609 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX7672 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX8524 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX5523 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX6735 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX6521 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX7330 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX2751 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX6791 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX1691 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX8201 | 2021-10-20 | 21:37:46 |
+XXXXXXXXXX0833 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX6141 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX7675 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX3876 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX1716 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX8557 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX4150 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX9617 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX8022 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX3550 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX8540 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX8222 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX6962 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX7559 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX7667 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX4665 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX6414 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX1865 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX3484 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX6775 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX5943 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX8030 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX1378 | 2021-10-20 | 21:37:47 |
+XXXXXXXXXX9030 | 2021-10-20 | 21:37:50 |
+XXXXXXXXXX4675 | 2021-10-20 | 21:37:50 |
+XXXXXXXXXX3852 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX5901 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX5885 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX7583 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX3892 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX8309 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX4192 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX6575 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX8069 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX0916 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX8682 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX7722 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX1173 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX7642 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX3906 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX7617 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX0880 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX8565 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX3040 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX4168 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX4176 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX4184 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX8328 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX7730 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX6783 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX8614 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX3500 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX4055 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX5003 | 2021-10-21 | 21:12:49 |
+XXXXXXXXXX5380 | 2021-10-21 | 21:12:49 |
+XXXXXXXXXX8184 | 2021-10-21 | 21:12:51 |
+XXXXXXXXXX7567 | 2021-10-21 | 21:12:51 |
+XXXXXXXXXX2840 | 2021-10-22 | 21:13:51 |
+XXXXXXXXXX4931 | 2021-10-22 | 21:13:52 |
+XXXXXXXXXX2992 | 2021-10-22 | 21:13:54 |
+XXXXXXXXXX6751 | 2021-10-22 | 21:13:56 |
+XXXXXXXXXX4253 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX6636 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX8234 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX8607 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX0882 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX6471 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX6001 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX0519 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX1032 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX7576 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX8154 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX6463 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX6954 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX9072 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX1253 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX1717 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX5686 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX0561 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX1725 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX0603 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX1674 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX1392 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX7600 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX3504 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX8533 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX2531 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX4063 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX7550 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX4089 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX7805 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX5501 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX7813 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX3432 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX9505 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX1590 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX8055 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX0509 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX5855 | 2021-10-22 | 21:13:59 |
+XXXXXXXXXX1042 | 2021-10-22 | 21:14:00 |
+XXXXXXXXXX2568 | 2021-10-23 | 21:11:57 |
+XXXXXXXXXX8564 | 2021-10-23 | 21:11:57 |
+XXXXXXXXXX2873 | 2021-10-23 | 21:11:57 |
+XXXXXXXXXX4432 | 2021-10-23 | 21:11:59 |
+XXXXXXXXXX4385 | 2021-10-23 | 21:12:00 |
+XXXXXXXXXX0660 | 2021-10-23 | 21:12:01 |
+XXXXXXXXXX7219 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX9270 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX2442 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX1766 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX8534 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX8809 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX4527 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX6604 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX4291 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX8817 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX2860 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX5072 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX6505 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX1774 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX0749 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX2765 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX7847 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX2773 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX9879 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX6153 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX9642 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX8222 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX2251 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX8743 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX8545 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX0924 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX8619 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX0645 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX2217 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX8223 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX9003 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX9513 | 2021-10-23 | 21:12:04 |
+XXXXXXXXXX1782 | 2021-10-23 | 21:12:04 |
+XXXXXXXXXX4279 | 2021-10-23 | 21:12:04 |
+XXXXXXXXXX1938 | 2021-10-23 | 21:12:04 |
+XXXXXXXXXX8256 | 2021-10-23 | 21:12:05 |
+XXXXXXXXXX5977 | 2021-10-23 | 21:12:05 |
+XXXXXXXXXX5953 | 2021-10-23 | 21:12:05 |
+XXXXXXXXXX3959 | 2021-10-23 | 21:12:06 |
+XXXXXXXXXX1945 | 2021-10-23 | 21:12:07 |
+XXXXXXXXXX0171 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX6769 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX7194 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX4254 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX2209 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX3149 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX7501 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX7535 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX9634 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX8903 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX2662 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX2233 | 2021-10-24 | 21:09:10 |
+XXXXXXXXXX7477 | 2021-10-24 | 21:09:11 |
+XXXXXXXXXX1640 | 2021-10-24 | 21:09:11 |
+XXXXXXXXXX9078 | 2021-10-24 | 21:09:13 |
+XXXXXXXXXX5477 | 2021-10-25 | 21:11:11 |
+XXXXXXXXXX5281 | 2021-10-25 | 21:11:13 |
+XXXXXXXXXX6221 | 2021-10-25 | 21:11:15 |
+XXXXXXXXXX7469 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX8833 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX5125 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX5941 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX7729 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX4113 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX8553 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX8682 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX3722 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX6163 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX1021 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX7072 | 2021-10-25 | 21:11:16 |
+XXXXXXXXX4556 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX3233 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX3046 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX7093 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX5967 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX1484 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX3960 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX6539 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX4568 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX4937 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX7431 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX6286 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX8141 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX7493 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX0127 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX8982 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX2670 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX9086 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX8990 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX1997 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX3680 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX6422 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX0449 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX9014 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX8115 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX2308 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX4960 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX2647 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX6612 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX7485 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX4226 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX9887 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX2290 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX0999 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX4535 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX4580 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX8733 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX0272 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX9162 | 2021-10-25 | 21:11:17 |
+XXXXXXXXXX5407 | 2021-10-26 | 21:10:40 |
+XXXXXXXXXX0940 | 2021-10-26 | 21:10:42 |
+XXXXXXXXXX6768 | 2021-10-26 | 21:10:42 |
+XXXXXXXXXX0957 | 2021-10-26 | 21:10:42 |
+XXXXXXXXXX0316 | 2021-10-26 | 21:10:42 |
+XXXXXXXXXX6981 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX9384 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX4857 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX2175 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX2327 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX1404 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX5010 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX0304 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX8966 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX2159 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX8733 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX0083 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX4517 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX1927 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX2605 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX5689 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX7582 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX9862 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX7041 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX5195 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX7974 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX8379 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX4121 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX4139 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX1487 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX6610 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX7522 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX8913 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX5423 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX9343 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX1681 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX1412 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX2700 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX2754 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX5535 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX8563 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX4147 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX3736 | 2021-10-26 | 21:10:46 |
+XXXXXXXXXX2316 | 2021-10-26 | 21:10:46 |
+XXXXXXXXXX1677 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX3784 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX0976 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX9419 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX1338 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX9651 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX9618 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX0355 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX2811 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX2340 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX5497 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX6620 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX3592 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX6554 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX4259 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX1047 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX4507 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX9554 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX8808 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX3750 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX2795 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX1388 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX8782 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX7726 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX8897 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX4911 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX9721 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX2020 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX0984 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX0992 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX9648 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX1078 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX8958 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX0464 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX4856 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX4543 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX1042 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX3008 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX8816 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX5105 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX9332 | 2021-10-27 | 22:05:22 |
+XXXXXXXXXX4162 | 2021-10-27 | 22:05:22 |
+XXXXXXXXXX2203 | 2021-10-27 | 22:05:23 |
+XXXXXXXXXX9879 | 2021-10-27 | 22:05:24 |
+XXXXXXXXXX5620 | 2021-10-27 | 22:05:24 |
+XXXXXXXXXX5183 | 2021-10-27 | 22:05:24 |
+XXXXXXXXXX5667 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1137 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX2984 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX2068 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX8755 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX9600 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1453 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1938 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1669 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX5758 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX3005 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX7003 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX6130 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX3735 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX0751 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX0363 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1278 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1961 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX4696 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX5844 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX0597 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1438 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX9173 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX2381 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX2076 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX2976 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1023 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX5453 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX4393 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1062 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1070 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX1096 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX9454 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX3719 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX3459 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX5038 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX6930 | 2021-10-28 | 21:11:29 |
+XXXXXXXXXX4511 | 2021-10-28 | 21:11:29 |
+XXXXXXXXXX6922 | 2021-10-28 | 21:11:29 |
+XXXXXXXXXX9557 | 2021-10-28 | 21:11:30 |
+XXXXXXXXXX3642 | 2021-10-28 | 21:11:30 |
+XXXXXXXXXX2555 | 2021-10-28 | 21:11:30 |
+XXXXXXXXXX1979 | 2021-10-28 | 21:11:31 |
+XXXXXXXXXX2548 | 2021-10-28 | 21:11:31 |
+XXXXXXXXXX7031 | 2021-10-28 | 21:11:31 |
+XXXXXXXXXX2416 | 2021-10-29 | 21:13:18 |
+XXXXXXXXXX2753 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX7040 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX0247 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX1347 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX4473 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX7912 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX2236 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX7904 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX5167 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX5175 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX2043 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX3617 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX8292 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX4481 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX3701 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX1904 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX6255 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX2027 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX6114 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX8250 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX2726 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX7123 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX8235 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX6450 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX4393 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX1835 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX8824 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX5190 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX3004 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX5487 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX5543 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX1104 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX5159 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX2738 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX8491 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX4645 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX2734 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX8051 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX0769 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX7138 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX5661 | 2021-10-29 | 21:13:25 |
+XXXXXXXXXX3481 | 2021-10-29 | 21:13:25 |
+XXXXXXXXXX0866 | 2021-10-29 | 21:13:25 |
+XXXXXXXXXX4710 | 2021-10-29 | 21:13:26 |
+XXXXXXXXXX1339 | 2021-10-30 | 21:12:41 |
+XXXXXXXXXX5537 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX2658 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX2763 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX0785 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1824 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX8342 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX9625 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX2087 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1284 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1741 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX8693 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX3380 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX8863 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX6711 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1272 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1187 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX3822 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX8483 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX8763 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1865 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX5905 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1870 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX8964 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX2384 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX7547 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX7621 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX6275 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1822 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX4708 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX4550 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX7863 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX7938 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX8147 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1388 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX9596 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX0462 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX2376 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX0488 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX2704 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX6248 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX4077 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX1873 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX2688 | 2021-10-30 | 21:12:44 |
+XXXXXXXXXX5941 | 2021-10-30 | 21:12:45 |
+XXXXXXXXXX2960 | 2021-10-30 | 21:12:46 |
+XXXXXXXXXX1925 | 2021-10-31 | 21:14:56 |
+XXXXXXXXXX0908 | 2021-10-31 | 21:14:59 |
+XXXXXXXXXX5730 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX1318 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX0512 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX9154 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX1447 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX1292 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX8334 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX4637 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX2735 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX7513 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX1300 | 2021-10-31 | 21:15:01 |
+XXXXXXXXXX1766 | 2021-10-31 | 21:15:02 |
+XXXXXXXXXX1297 | 2021-10-31 | 21:15:04 |
+
+121 additional card(s) were added to the primary patron(s) account the last month
+
+XXXXXXXXXX0468 | 2021-10-01 | 22:07:07 |
+XXXXXXXXXX3808 | 2021-10-01 | 22:07:07 |
+XXXXXXXXXX7809 | 2021-10-01 | 22:07:07 |
+XXXXXXXXXX5039 | 2021-10-01 | 22:07:08 |
+XXXXXXXXXX1649 | 2021-10-02 | 21:13:45 |
+XXXXXXXXXX3484 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX5463 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX7679 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX6833 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX6841 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX6637 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX4547 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX3575 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX7009 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX4638 | 2021-10-02 | 21:13:48 |
+XXXXXXXXXX6392 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX5739 | 2021-10-02 | 21:13:49 |
+XXXXXXXXXX4935 | 2021-10-03 | 04:07:34 |
+XXXXXXXXXX5790 | 2021-10-03 | 04:07:35 |
+XXXXXXXXXX7706 | 2021-10-03 | 04:07:35 |
+XXXXXXXXXX8845 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX8167 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX0532 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX2968 | 2021-10-03 | 21:11:26 |
+XXXXXXXXXX2805 | 2021-10-04 | 21:11:49 |
+XXXXXXXXXX7442 | 2021-10-05 | 21:12:17 |
+XXXXXXXXXX3160 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX1155 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX1098 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX8852 | 2021-10-05 | 21:12:20 |
+XXXXXXXXXX7941 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX7610 | 2021-10-06 | 21:42:30 |
+XXXXXXXXXX6499 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0632 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0624 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0640 | 2021-10-07 | 21:16:08 |
+XXXXXXXXXX0067 | 2021-10-08 | 21:14:58 |
+XXXXXXXXXX7684 | 2021-10-08 | 21:14:58 |
+XXXXXXXXXX9742 | 2021-10-08 | 21:14:58 |
+XXXXXXXXXX9147 | 2021-10-08 | 21:14:59 |
+XXXXXXXXXX3736 | 2021-10-09 | 21:12:51 |
+XXXXXXXXXX4825 | 2021-10-09 | 21:12:51 |
+XXXXXXXXXX3744 | 2021-10-09 | 21:12:51 |
+XXXXXXXXXX8913 | 2021-10-09 | 21:12:51 |
+XXXXXXXXXX3238 | 2021-10-09 | 21:12:51 |
+XXXXXXXXXX8921 | 2021-10-09 | 21:12:51 |
+XXXXXXXXXX0455 | 2021-10-10 | 21:12:00 |
+XXXXXXXXXX8889 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX9238 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX9368 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX3061 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6255 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6263 | 2021-10-11 | 21:11:10 |
+XXXXXXXXXX6346 | 2021-10-11 | 21:11:13 |
+XXXXXXXXXX8493 | 2021-10-13 | 21:37:59 |
+XXXXXXXXXX3079 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX7441 | 2021-10-13 | 21:38:00 |
+XXXXXXXXXX4337 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX0529 | 2021-10-13 | 21:38:01 |
+XXXXXXXXXX3523 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX6440 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX1311 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX1329 | 2021-10-14 | 21:12:25 |
+XXXXXXXXXX4940 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX7793 | 2021-10-15 | 21:11:05 |
+XXXXXXXXXX4775 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX9950 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX4791 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX9766 | 2021-10-16 | 21:14:16 |
+XXXXXXXXXX8269 | 2021-10-17 | 04:07:59 |
+XXXXXXXXXX9263 | 2021-10-17 | 04:07:59 |
+XXXXXXXXXX0462 | 2021-10-17 | 04:14:13 |
+XXXXXXXXXX7375 | 2021-10-17 | 05:23:53 |
+XXXXXXXXXX5965 | 2021-10-18 | 21:13:13 |
+XXXXXXXXXX5777 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX9267 | 2021-10-18 | 21:13:17 |
+XXXXXXXXXX3468 | 2021-10-19 | 21:14:22 |
+XXXXXXXXXX7776 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX0948 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX0922 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX0997 | 2021-10-19 | 21:14:26 |
+XXXXXXXXXX0467 | 2021-10-19 | 21:14:27 |
+XXXXXXXXXX5893 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX5950 | 2021-10-21 | 21:12:48 |
+XXXXXXXXXX5678 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX6166 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX5381 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX6455 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX9407 | 2021-10-22 | 21:13:57 |
+XXXXXXXXXX2024 | 2021-10-23 | 21:12:01 |
+XXXXXXXXXX9638 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX2269 | 2021-10-23 | 21:12:03 |
+XXXXXXXXXX3460 | 2021-10-24 | 04:10:51 |
+XXXXXXXXXX3445 | 2021-10-24 | 04:10:51 |
+XXXXXXXXXX6421 | 2021-10-24 | 05:25:54 |
+XXXXXXXXXX2715 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX2654 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX9304 | 2021-10-25 | 21:11:16 |
+XXXXXXXXXX1476 | 2021-10-26 | 21:10:42 |
+XXXXXXXXXX1032 | 2021-10-26 | 21:10:42 |
+XXXXXXXXXX0711 | 2021-10-26 | 21:10:42 |
+XXXXXXXXXX8702 | 2021-10-26 | 21:10:43 |
+XXXXXXXXXX4549 | 2021-10-26 | 21:10:43 |
+XXXXXXXXXX4002 | 2021-10-26 | 21:10:43 |
+XXXXXXXXXX0007 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX8145 | 2021-10-26 | 21:10:44 |
+XXXXXXXXXX2829 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX2787 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX2779 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX1370 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX1362 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX4499 | 2021-10-27 | 22:05:21 |
+XXXXXXXXXX2834 | 2021-10-28 | 21:11:27 |
+XXXXXXXXXX0145 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX2935 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX4403 | 2021-10-28 | 21:11:28 |
+XXXXXXXXXX2506 | 2021-10-28 | 21:11:31 |
+XXXXXXXXXX2035 | 2021-10-29 | 21:13:23 |
+XXXXXXXXXX2281 | 2021-10-29 | 21:13:24 |
+XXXXXXXXXX9588 | 2021-10-29 | 21:13:25 |
+XXXXXXXXXX2696 | 2021-10-30 | 21:12:44 |
+
+Central signed up 589 patron(s) for text notices the last month
+Franklin. If you prefer curbside pick-up, please call 414-425-8214, Option 1, to schedule an appointment. signed up 66 patron(s) for text notices the last month
+South Milwaukee signed up 33 patron(s) for text notices the last month
+Greenfield. Please call the library at 414 321-9595 if you'd like to schedule an appointment for curbside pickup signed up 42 patron(s) for text notices the last month
+Greendale. Call on arrival for curbside pickup: 414 423-2136 signed up 36 patron(s) for text notices the last month
+King. Items may be picked up indoors during MPL Branch Limited Service hours. Also available at Branch locations is curbside service, please call the phone number posted there for curbside service. signed up 1 patron(s) for text notices the last month
+West Milwaukee signed up 1 patron(s) for text notices the last month
+Oak Creek. Please visit www.oakcreeklibrary.org/curbside or call 414-766-7900 for information about curbside pick up. signed up 109 patron(s) for text notices the last month
+Wauwatosa. Please call the library for information about curbside pickup. signed up 102 patron(s) for text notices the last month
+ signed up 1 patron(s) for text notices the last month
+West Allis. Please call the library 414-302-8500, if you would like to schedule curbside service signed up 47 patron(s) for text notices the last month
+St. Francis. Come in to collect your holds during open hours. Or, you may phone 414 481-7323 once you are outside the library for curbside pickup signed up 10 patron(s) for text notices the last month
+Brown Deer. Items may be pickup up during our open hours. signed up 7 patron(s) for text notices the last month
+North Shore. For Library Hours and information on curbside pickup visit http://www.mcfls.org/northshorelibrary/default.htm or call 414-351-3461 signed up 45 patron(s) for text notices the last month
+Cudahy. Please call the library, 414-769-2244, if you would like to arrange for a curbside pick-up appointment signed up 34 patron(s) for text notices the last month
+Shorewood. Holds can be picked up in the library or brought to your vehicle. Hours and more info can be found at https://www.shorewoodlibrary.org/discover/hours__location.php signed up 81 patron(s) for text notices the last month
+Whitefish Bay. For library hours, call 414.964.4380 or visit www.wfblibrary.org. signed up 48 patron(s) for text notices the last month
+Hales Corners. Please check the library website for our current hours of service signed up 7 patron(s) for text notices the last month
+
+================================*****================================================================================================
+
+                     No Patron Initiated Cancellation of Notice Service
+
+================================*****================================================================================================
+
+
+
