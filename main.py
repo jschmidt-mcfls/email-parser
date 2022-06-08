@@ -29,8 +29,6 @@ while not found:
         print("File not found...")
 
 # Variables
-newFilename = filename.replace(".txt", "")
-newFilename = newFilename.replace('Shoutbomb', '')
 
 queries = {
     "Hold notices sent for the month": 0,
@@ -72,7 +70,7 @@ def parse(data, query):
 
 
 # First Sheet
-totalsByBranch = workbook.add_sheet(f"Totals {newFilename}")
+totalsByBranch = workbook.add_sheet("Totals")
 
 emailText = splittedEmail.split("=TOTALS=")[0]
 queriesList = list(queries.keys())
@@ -91,7 +89,6 @@ for branch in emailText.split("Branch:: "):
                 row += 1
                 totalsByBranch.write(row, column, query)
 
-
 row = 0 
 column += 1
 totals = parse(splittedEmail.split("=TOTALS=")[1], queries.copy())
@@ -100,10 +97,9 @@ for query in totals.values():
     row += 1
     totalsByBranch.write(row, column, query)
 
-
 # Second Part
 row = 1
-textNotices = workbook.add_sheet(f"Text Notices Sent {newFilename}")
+textNotices = workbook.add_sheet("Text Notices Sent")
 textNotices.write(0, 1, "Total Text Notices")
 splittedEmail = email.split("=TOTALS BY BRANCH=")[1]
 emailText = splittedEmail.split("=TOTALS OF REGISTERED PATRON BY BRANCH=")[0]
@@ -117,7 +113,7 @@ for line in emailText.splitlines():
 
 # Third Part
 row = 1
-registeredUsers = workbook.add_sheet(f"Registered Patrons {newFilename}")
+registeredUsers = workbook.add_sheet("Registered Patrons")
 registeredUsers.write(0, 1, "Total Registered Patrons")
 emailText = splittedEmail.split("=TOTALS OF REGISTERED PATRON BY BRANCH=")[1]
 
@@ -142,3 +138,4 @@ for line in emailText.splitlines():
 # Save workbook
 workbook.save(f"Output/{filename.replace('.txt', '.xls')}")
 print("Saved Successfully...")
+sleep(4)
