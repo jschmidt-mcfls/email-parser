@@ -122,20 +122,20 @@ libraryCopy = libraries.copy()
 for line in emailText.splitlines():
     for key in libraries.keys():
         if key in line:
-            newLine = line.split(" has ")[1]
-            newLine = newLine.replace(" registered patrons for text notices", "")
-            newLine = int(newLine)
-            libraryCopy[key] = newLine
-                
+            if "has" in line:
+                newLine = line.split(" has ")[1]
+                newLine = newLine.replace(" registered patrons for text notices", "")
+                newLine = int(newLine)
+                libraryCopy[key] = newLine
+
 for line in emailText.splitlines():
     for library in libraries:
         if library in line:
             registeredUsers.write(row, 0, library)
             registeredUsers.write(row, 1, libraryCopy[library])
             row += 1
-            
 
 # Save workbook
 workbook.save(f"Output/{filename.replace('.txt', '.xls')}")
 print("Saved Successfully...")
-sleep(4)
+sleep(2.5)
